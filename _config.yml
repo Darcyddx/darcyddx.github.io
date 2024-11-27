@@ -21,7 +21,7 @@ repository               : "Darcyddx/darcyddx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo.jpeg"
+  avatar           : "images/my_photo.jpeg"
   name             : "Xi Ding"
   pronouns         : "he/him"  
   bio              : "Research Student at ANU"
