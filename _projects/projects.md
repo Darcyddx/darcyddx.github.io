@@ -38,7 +38,7 @@ My work delves into the fascinating field of AI explainability and transparency,
 
 We developed an innovative tool that allows users to visually navigate the high-dimensional space of image embeddings. By leveraging a technique known as projection pursuit, the tool creates dynamic 3D projections of the embedding space, offering an intuitive way to explore its structure. Each point in this space can be interactively rendered as the original image, making it easier to understand and interpret the relationships between images and their embeddings.
 
-[Project paper]()
+[Project paper](https://darcyddx.github.io/files/IEE.pdf)
 
 ---
 
