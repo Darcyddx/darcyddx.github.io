@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xi Ding / Home page"
 title_separator          : "-"
 name                     : &name "Xi Ding"
-description              : &description "Master's student in Machine Learning at ANU"
+description              : &description "Master's student majored in Machine Learning at ANU"
 url                      : https://darcyddx.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Darcyddx/darcyddx.github.io"
@@ -199,6 +199,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
+  math_engine: mathjax
   input: GFM
   hard_wrap: false
   auto_ids: true
