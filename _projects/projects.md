@@ -28,13 +28,21 @@ a:active {
 }
 </style>
 
-### Project 1: Time Lab Research Project [Ongoing]
+### Time Lab Research Project [Ongoing]
 
 My work delves into the fascinating field of AI explainability and transparency, where I explore how complex AI models can become more understandable and trustworthy. In a world increasingly shaped by AI-driven decisions, ensuring that these systems are interpretable is both a technical challenge and a moral imperative.
 
 ---
 
-### Project 2: ANU TechLauncher - Active Vision Project [Ongoing]
+### Image Embedding Explorer [Completed]
+
+We developed an innovative tool that allows users to visually navigate the high-dimensional space of image embeddings. By leveraging a technique known as projection pursuit, the tool creates dynamic 3D projections of the embedding space, offering an intuitive way to explore its structure. Each point in this space can be interactively rendered as the original image, making it easier to understand and interpret the relationships between images and their embeddings.
+
+[Project paper]()
+
+---
+
+### ANU TechLauncher - Active Vision Project [Ongoing]
 
 The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) has the following objectives:
 - **Develop analytical algorithms**: Create robust algorithms capable of analyzing the captured motion data to identify key performance indicators (KPIs) such as swing speed, angle, and impact accuracy.
