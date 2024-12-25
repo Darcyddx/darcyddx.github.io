@@ -221,7 +221,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  experiences:
     output: true
     permalink: /:collection/:path/
 
@@ -262,14 +262,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _experiences
   - scope:
       path: ""
-      type: talks
+      type: experiences
     values:
-      layout: talk
+      layout: single
       author_profile: true
-      share: true
 
 
 # Sass/SCSS
