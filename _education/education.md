@@ -37,4 +37,4 @@ a:active {
 * *01/09/2019 - 01/06/2023*: **China Agricultural University (CAU)** & **University of Colorado Denver (UCD)**  
   *Bachelor of Economics*  
   - Specialization: Econometrics and finance.  
----
+
