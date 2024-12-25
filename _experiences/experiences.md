@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /experience/
+permalink: /experiences/
 author_profile: true
 ---
 <!-- <font color="red"><strong>A*</strong>, accepted, to appear</font> -->
