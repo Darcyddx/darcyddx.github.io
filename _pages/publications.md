@@ -40,7 +40,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ad.pdf"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.18298"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
 				<div class="gs_gray">arXiv preprint</div>
 			</td>
