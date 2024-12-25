@@ -33,7 +33,7 @@ a:active {
   {% include archive-single.html %}
 {% endfor %} -->
 
-<!-- You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile. -->
+<!-- You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=hw1udTkAAAAJ&hl=zh-CN) profile. -->
 
 $^\dagger$: Corresponding author.
 
