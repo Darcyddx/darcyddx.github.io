@@ -35,3 +35,11 @@ For me, research isn't just a process—it's an adventure. It's about asking "wh
 * *13/11/2024-<font color="blue">present</font>*: **Research Assistant** 
   * [TIME Lab](https://time.anu.edu.au/)
   * Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
+
+<h2>Industry</h2>
+
+* *06/2021-08/2021*: **Intern, Copper Metal Business Department**  
+  *CNMC Trading CO., LTD, Beijing, China*  
+  - Verified port operation logistics and facilitated contract negotiations to support cargo management.  
+  - Maintained communication between domestic and international purchasing channels.  
+  - Resolved logistics emergencies, including cargo ship detentions, through coordination with stakeholders and insurance companies.
