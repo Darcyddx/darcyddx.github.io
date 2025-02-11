@@ -76,5 +76,5 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <p>&nbsp;</p>
 
 <font size="3" color="blue">
-	Last updated: 25/12/2024.	
+	Last updated: 11/02/2025.	
 </font>
