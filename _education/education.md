@@ -28,7 +28,7 @@ a:active {
 
 * *17/07/2023 - Present*: **Australian National University (ANU)**  
   *Master of Computing*  
-  - Specialization: Machine learning and computer vision.
+  - Specialization: Machine learning, deep learning, and computer vision.
 
 ---
 
@@ -36,5 +36,5 @@ a:active {
 
 * *01/09/2019 - 01/06/2023*: **China Agricultural University (CAU)** & **University of Colorado Denver (UCD)**  
   *Bachelor of Economics*  
-  - Specialization: Econometrics and finance.  
+  - Specialization: Statistics, Econometrics and finance.  
 
