@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to Xi Ding's Personal Website 👋👋👋"
+excerpt: "Welcome to Xi Ding's Personal Website 👋👋👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome to Xi Ding's Personal Website 👋👋👋
 
 ## About Me 🏄‍♂️
 Hi, I’m **Xi Ding**! I’m currently a **Master’s student in Computing (Machine Learning) at the [Australian National University (ANU)](https://www.anu.edu.au) 🎓**. My work focuses on understanding and improving how machines process videos—things like **recognizing actions 🎬, spotting unusual events 🚨, and combining different types of data 🔄 (like video and text)**. I’m passionate about making **artificial intelligence (AI) 🤖 easier to understand and more reliable for real-world use**. 
