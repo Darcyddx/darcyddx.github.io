@@ -9,37 +9,17 @@ redirect_from:
 ---
 
 ## About Me 🏄‍♂️
-Hi, I’m **Xi Ding**! I’m currently a **Master’s student in Computing (Machine Learning) at the [Australian National University (ANU)](https://www.anu.edu.au) 🎓**. My work focuses on understanding and improving how machines process videos—things like **recognizing actions 🎬, spotting unusual events 🚨, and combining different types of data 🔄 (like video and text)**. I’m passionate about making **artificial intelligence (AI) 🤖 easier to understand and more reliable for real-world use**. 
+Hi, I’m Xi Ding! I’m currently a Master’s student in Computing (Machine Learning) at the [Australian National University (ANU)](https://www.anu.edu.au) 🎓. My academic and research journey specializes in video processing and artificial intelligence, with a focus on making machines better at understanding videos in practical and transparent ways. I’m currently a Research Assistant at the [TIME Lab](https://time.anu.edu.au/) ⏳, working alongside talented researchers to push the boundaries of video understanding.
 
-Currently, I am a **research assistant at the [TIME Lab](https://time.anu.edu.au/) ⏳**, where I actively engage in **cutting-edge projects** that explore **AI transparency and interpretability**. My work contributes to the broader vision of making AI **more comprehensible and reliable** for real-world applications. 💡
+My work centers on key areas like action recognition (teaching machines to identify actions in videos, such as walking or playing sports), video anomaly detection (spotting unusual events in footage), and multimodal learning (combining video, text, and other data for smarter AI). I’ve published several first-author papers, including two oral presentations at the Companion Proceedings of The ACM Web Conference (WWW 2025). My research aims to not only improve accuracy but also make AI more interpretable—something I believe is crucial for real-world applications.
 
-### 🔍 My Research Interests
-My work centers on:
-- **Action recognition 🏃‍♂️** – Teaching machines to identify actions in videos (e.g., walking, playing sports 🏀).
-- **Video anomaly detection 🔎** – Spotting unusual events in footage (e.g., detecting accidents or security threats 🚧).
-- **Multimodal learning 🧠** – Combining video, text, and other data to create smarter AI.
+Before diving into computing, I earned a Bachelor’s degree in Economics from China Agricultural University and the University of Colorado Denver (2019–2023). There, I honed my skills in data analysis through courses like Statistics, Econometrics, and Numerical Analysis. This foundation in economics gave me a unique perspective on problem-solving, which I now apply to machine learning and computer vision challenges.
 
-I’ve published several **first-author papers**, including **two oral presentations at the Companion Proceedings of The ACM Web Conference (WWW 2025)**. My research aims to **not only improve accuracy but also enhance AI interpretability**—something I believe is crucial for real-world applications.
+Beyond research, I’m passionate about contributing to the academic community. I’m currently a Workshop Coordinator for WWW 2025, where I’m organizing the 1st International Workshop on Transformative Insights in Multi-faceted Evaluation. This role lets me connect with researchers worldwide, and foster discussions on innovative web technologies.
 
-### 🎓 Academic Background
-Before diving into computing, I earned a **Bachelor’s degree in Economics 📊** from **China Agricultural University and the University of Colorado Denver (2019–2023)**. My background in **statistics 📈, econometrics 📉, and numerical analysis 🔢** has given me a unique problem-solving perspective, which I now apply to **machine learning and computer vision challenges**. 
+My professional experience includes internships that shaped my technical and collaborative skills. At Qingdao Aerospace Power Research Institute (2022–2023), I worked on the Digital Twin Project, building web interfaces and digital models to improve aerospace simulations. Earlier, at CNMC Trading Co., Ltd (2021), I managed logistics and solved real-time shipping challenges, learning how to think on my feet and work with diverse teams.
 
-### 🌎 Community Involvement 
-Beyond research, I’m passionate about **contributing to the academic community**. I’m currently a **Workshop Coordinator for WWW 2025**, where I’m **organizing the 1st International Workshop on Transformative Insights in Multi-faceted Evaluation**. 
-
-### 💼 Professional Experience
-My internships have shaped my **technical and collaborative skills**:
-- **Qingdao Aerospace Power Research Institute (2022–2023)**  
-  - Worked on the **Digital Twin Project**, building web interfaces and digital models to enhance aerospace simulations.
-- **CNMC Trading Co., Ltd (2021)**  
-  - Managed **logistics and real-time shipping challenges**, developing quick problem-solving skills.
-
-### 🚀 Hands-on Projects
-I love blending **creativity and technology** through real-world projects:
-- **Active Vision 🎾 (2024–2025)**  
-  - Uses **machine learning to analyze tennis swings in real time 🎥🏸**, providing instant feedback for players.
-- **Image Embedding Explorer 🔍📊 (2024)**  
-  - An **interactive tool** that visualizes **complex image data in 3D 🏞️**, making AI insights more interpretable.
+I’ve also led hands-on projects that blend creativity and technology. For example, my Active Vision project (2024–2025) uses machine learning to analyze tennis swings in real time, helping players improve their technique with instant feedback. Another project, Image Embedding Explorer (2024), is an interactive tool that makes complex image data easier to understand by visualizing it in 3D. These experiences reflect my drive to build tools that are both innovative and practical.
 
 ### 📢 Why AI?  
 My journey started with **a deep curiosity 🤔** about how **data and technology can solve real problems**—whether it’s **predicting economic trends 📊** or **teaching machines to “see” and “think” 🧠**. Today, I’m excited to be part of **the fast-evolving field of AI 🚀**, working toward solutions that are **accurate ✅, reliable 🔐, and accessible to everyone 💌**.
