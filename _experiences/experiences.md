@@ -43,7 +43,7 @@ For me, research isn't just a process—it's an adventure. It's about asking "wh
 
 ### Industry
 
-- **11/2022 - 02/2023: Intern, Computing Department**  
+- **11/2023 - 02/2024: Intern, Computing Department**  
   *Qingdao Aerospace Power Research Institute, Qingdao, China*  
   - Worked on the Digital Twin Project, developing interactive web-based interfaces to enhance simulation accuracy for aerospace systems.  
   - Conducted detailed analysis of system behaviors, identifying inefficiencies and proposing optimization strategies.  
