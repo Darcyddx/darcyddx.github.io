@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: "Welcome to Xi Ding's Personal Website 👋👋👋"
-excerpt: "Welcome to Xi Ding's Personal Website 👋👋👋"
+title: "Welcome to Xi Ding's Personal Website 👋"
+excerpt: "Welcome to Xi Ding's Personal Website 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me 🏄‍♂️
+**Code ⟇ Create ⟇ Chill**  
+*From Code to Creation, with a touch of Chill.*
+
+## About Me 🏄‍♂️ 
 Hi, I’m Xi Ding! I’m currently a Master’s student in Computing (Machine Learning) at the [Australian National University (ANU)](https://www.anu.edu.au) 🎓. My academic and research journey specializes in video processing and artificial intelligence, with a focus on making machines better at understanding videos in practical and transparent ways. I’m currently a Research Assistant at the [TIME Lab](https://time.anu.edu.au/) ⏳, working alongside talented researchers to push the boundaries of video understanding.
 
 My work centers on key areas like action recognition (teaching machines to identify actions in videos, such as walking or playing sports), video anomaly detection (spotting unusual events in footage), and multimodal learning (combining video, text, and other data for smarter AI). I’ve published several first-author papers, including two oral presentations at the Companion Proceedings of The ACM Web Conference (WWW 2025). My research aims to not only improve accuracy but also make AI more interpretable—something I believe is crucial for real-world applications.
@@ -26,4 +29,4 @@ My journey started with **a deep curiosity 🤔** about how **data and technolog
 
 ---
 ✨ **This website is a place to share my research, projects, and experiences!**  
-💡 Whether you’re here to learn about my work **or** explore my interests, I hope you find something useful! 🚀  
+💡 Whether you’re here to learn about my work **or** explore my interests, I hope you find something useful! 
