@@ -22,10 +22,12 @@ Beyond research, I’m passionate about contributing to the academic community. 
 
 My professional experience includes internships that shaped my technical and collaborative skills. At Qingdao Aerospace Power Research Institute (2023–2024), I worked on the Digital Twin Project, building web interfaces and digital models to improve aerospace simulations. Earlier, at CNMC Trading Co., Ltd (2021), I managed logistics and solved real-time shipping challenges, learning how to think on my feet and work with diverse teams.
 
-I’ve also led hands-on projects that blend creativity and technology. For example, my Active Vision project (2024–2025) uses machine learning to analyze tennis swings in real time, helping players improve their technique with instant feedback. Another project, Image Embedding Explorer (2024), is an interactive tool that makes complex image data easier to understand by visualizing it in 3D. These experiences reflect my drive to build tools that are both innovative and practical.
+I’ve also contributed hands-on projects that blend creativity and technology. For example, my Active Vision project (2024–2025) uses machine learning to analyze tennis swings in real time, helping players improve their technique with instant feedback. Another project, Image Embedding Explorer (2024), is an interactive tool that makes complex image data easier to understand by visualizing it in 3D. These experiences reflect my drive to build tools that are both innovative and practical.
+
+Beyond my research, I’m passionate about sports🏀, music🎸, and travel✈️. I love playing basketball and badminton, always enjoying the challenge and energy they bring. Exploring new places around the world excites me, as I love experiencing different cultures and perspectives. Music is another big part of my life. I enjoy playing the guitar and have a deep appreciation for country music, which never fails to inspire me. These passions keep me balanced, creative, and always curious about the world.
 
 ### 📢 Why AI?  
-My journey started with **a deep curiosity 🤔** about how **data and technology can solve real problems**—whether it’s **predicting economic trends 📊** or **teaching machines to “see” and “think” 🧠**. Today, I’m excited to be part of **the fast-evolving field of AI 🚀**, working toward solutions that are **accurate ✅, reliable 🔐, and accessible to everyone 💌**.
+My journey started with a deep curiosity 🤔 about how data and technology solve real problems, from predicting economic trends 📊 to teaching machines to “see” and “think” 🧠. Today, I’m excited to be part of the fast-evolving field of AI 🚀, working toward solutions that are accurate ✅, reliable 🔐, and accessible to everyone 💌.
 
 ---
 ✨ **This website is a place to share my research, projects, and experiences!**  
