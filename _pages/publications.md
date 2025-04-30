@@ -64,7 +64,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/vlm.pdf"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
+			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/vad.pdf"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
 				<div class="gs_gray">arXiv preprint</div>
 			</td>
