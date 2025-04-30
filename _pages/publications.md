@@ -40,7 +40,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)</div>
 			</td>
@@ -48,7 +48,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.13845"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
+			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/vlm.pdf"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)</div>
 			</td>
@@ -64,7 +64,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.18298"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
+			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/vlm.pdf"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
 				<div class="gs_gray">arXiv preprint</div>
 			</td>
