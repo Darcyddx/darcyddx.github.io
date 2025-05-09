@@ -25,7 +25,7 @@ author:
   name             : "Xi Ding"
   pronouns         : "Research Assistant & ARC Hub Scholar at TIME Lab"  
   bio              : "ANU Master's Student"
-  location         : "ANU & ARC Hub & Griffith & TIME Lab"
+  location         : "ANU & ARC Hub & Griffith"
   uri              : # URL
   email            : "xi.ding1@anu.edu.au" 
 
@@ -224,6 +224,9 @@ collections:
   experiences:
     output: true
     permalink: /:collection/:path/
+  services:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -264,6 +267,12 @@ defaults:
   - scope:
       path: ""
       type: experiences
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: services
     values:
       layout: single
       author_profile: true
