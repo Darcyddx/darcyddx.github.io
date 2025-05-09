@@ -48,5 +48,5 @@ Sydney, Australia<br>
 I regularly review technical papers for the following conferences. 
 
 **Conferences**:
-IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS 2025)
-IEEE International Conference on Multimedia & Expo 2025
+* IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS 2025)
+* IEEE International Conference on Multimedia & Expo 2025
