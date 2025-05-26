@@ -23,7 +23,8 @@ In addition to his academic work, Xi has led creative projects integrating techn
 
 Outside of research, Xi enjoys sports 🏀, music 🎸, and traveling ✈️. He finds joy in playing basketball and badminton, discovering new cultures through travel, and relaxing with country music, especially playing the guitar. These activities help Xi maintain a balanced, creative, and curious outlook on life.
 
----
+## My Pub 
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
   <img src="/images/ar.gif" alt="The Journey of Action Recognition" width="120" />
   <div style="margin-left: 1rem;">
