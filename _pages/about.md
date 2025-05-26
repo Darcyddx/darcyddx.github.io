@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 **Code ⟇ Create ⟇ Chill**  
 *From Code to Creation, with a touch of Chill.*
 
