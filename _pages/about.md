@@ -24,5 +24,30 @@ In addition to his academic work, Xi has led creative projects integrating techn
 Outside of research, Xi enjoys sports 🏀, music 🎸, and traveling ✈️. He finds joy in playing basketball and badminton, discovering new cultures through travel, and relaxing with country music, especially playing the guitar. These activities help Xi maintain a balanced, creative, and curious outlook on life.
 
 ---
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/images/ar.gif" alt="The Journey of Action Recognition" width="120" />
+  <div style="margin-left: 1rem;">
+    **Ding, X.**, Wang, L. “The Journey of Action Recognition.”  
+    *Companion Proceedings of the ACM Web Conference 2025 (WWW Companion ’25)* (Oral, **Best Paper Award**)
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/images/vlm.png" alt="Do Language Models Understand Time?" width="120" />
+  <div style="margin-left: 1rem;">
+    **Ding, X.**, Wang, L. “Do Language Models Understand Time?”  
+    *Companion Proceedings of the ACM Web Conference 2025 (WWW Companion ’25)* (Oral)
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/images/vadlm.png" alt="Quo Vadis, Anomaly Detection?" width="120" />
+  <div style="margin-left: 1rem;">
+    **Ding, X.**, Wang, L. “Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight.”  
+    *arXiv preprint* (2024) 
+  </div>
+</div>
+
+---
 ✨ **This website is a place to share my research, projects, and experiences!**  
 💡 Whether you’re here to learn about my work **or** explore my interests, I hope you find something useful! 
