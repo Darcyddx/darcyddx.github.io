@@ -68,7 +68,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
 				<div class="gs_gray">arXiv preprint</div>
 			</td>
-			<td class="gsc_a_c">Research report. This research was conducted under the supervision of Lei Wang.</td>
+			<td class="gsc_a_c">Research report. </td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 	</tbody>
