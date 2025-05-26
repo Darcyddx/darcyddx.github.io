@@ -29,7 +29,7 @@ Outside of research, Xi enjoys sports 🏀, music 🎸, and traveling ✈️. He
   <img src="/images/ar.gif" alt="The Journey of Action Recognition" width="120" />
   <div style="margin-left: 1rem;">
     Ding, X., Wang, L. “The Journey of Action Recognition.”  
-    Companion Proceedings of the ACM Web Conference 2025 (WWW Companion ’25) (Oral, Best Paper Award)
+    Companion Proceedings of the ACM Web Conference 2025 (Oral, Best Paper Award)
   </div>
 </div>
 
@@ -37,7 +37,7 @@ Outside of research, Xi enjoys sports 🏀, music 🎸, and traveling ✈️. He
   <img src="/images/vlm.png" alt="Do Language Models Understand Time?" width="120" />
   <div style="margin-left: 1rem;">
     Ding, X., Wang, L. “Do Language Models Understand Time?”  
-    Companion Proceedings of the ACM Web Conference 2025 (WWW Companion ’25) (Oral)
+    Companion Proceedings of the ACM Web Conference 2025 (Oral)
   </div>
 </div>
 
