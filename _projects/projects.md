@@ -54,9 +54,7 @@ The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) has the follow
 - **Real-time feedback**: Implement a real-time feedback system that provides immediate insights and suggestions to players, enhancing their ability to correct and refine their techniques on the spot.
 - **User-friendly interface**: Develop an intuitive interface that allows users to easily interact with the system, view their performance data, and track their progress over time.
 
-[2024 S2 Poster](https://leiwangr.github.io/files/24-S2-2-Active-Vision.png)
-[2025 S1 Poster](https://leiwangr.github.io/images/Poster.pdf)
-[Demo video](https://darcyddx.github.io/images/demo.MP4)
+[2024 S2 Poster](https://leiwangr.github.io/files/24-S2-2-Active-Vision.png), [2025 S1 Poster](https://leiwangr.github.io/images/Poster.pdf), [Demo video](https://darcyddx.github.io/images/demo.MP4)
 
 ---
 
