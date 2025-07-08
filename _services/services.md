@@ -34,7 +34,7 @@ a:active {
     <th>Date</th>
   </tr>
   <tr>
-    <td>Echoes in the Model: When Features Reflect Predictions<a href="xxx">[slides]</a></td>
+    <td>Echoes in the Model: When Features Reflect Predictions<a href="xxx"> [slides]</a></td>
     <td><a href="https://people.csiro.au/Z/M/miaohua-zhang">Dr. Miaohua Zhang </a>, <br> Data61/CSIRO, <br> ACT-BMSIP-B801-FG-RD05-Greenhood, <br> Canberra, Australia</td>
     <td>Data61/CSIRO ICVG Reading Group</td>
     <td>08 July 2025</td>
