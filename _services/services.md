@@ -23,6 +23,25 @@ a:active {
 }
 </style>
 
+<h2>Invited Talk</h2>
+
+<!-- <font size="5"> -->
+<table style="width:100%" border="1px solid black;">
+  <tr>
+    <th>Topic</th>
+    <th>Host</th>
+    <th>Description</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Echoes in the Model: When Features Reflect Predictions<a href="xxx">[slides]</a></td>
+    <td><a href="https://people.csiro.au/Z/M/miaohua-zhang">Dr. Miaohua Zhang </a>, <br> Data61/CSIRO, <br> ACT-BMSIP-B801-FG-RD05-Greenhood, <br> Canberra, Australia</td>
+    <td>Data61/CSIRO ICVG Reading Group</td>
+    <td>08 July 2025</td>
+  </tr>
+</table>
+
+
 <h2>Workshop coordinating</h2>
 
 <table style="width:100%" border="1px solid black;">
