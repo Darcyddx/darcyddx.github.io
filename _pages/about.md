@@ -17,11 +17,11 @@ At the [TIME Lab](https://time.anu.edu.au/) ⏳, Xi worked as a Research Assista
 
 Xi has published multiple first-author papers, including two in the Companion Proceedings of **The Web Conference (WWW) 2025**, where he also received the **Best Paper Award** 🏆. Beyond publishing, he contributes actively to the academic community as a reviewer for conferences like AAAI, ICME, and AVSS, and served as a Workshop Coordinator at WWW 2025.  
 
-In addition to academic work, Xi has built creative projects combining AI and real-world applications. His **Active Vision** project helps tennis players improve their swings with real-time feedback, while his **Image Embedding Explorer** provides interactive 3D visualization of complex image data. These projects reflect his passion for building AI tools that are both innovative and user-friendly.  
+In addition to academic work, Xi has built creative projects combining AI and real-world applications. His Active Vision project helps tennis players improve their swings with real-time feedback, while his Image Embedding Explorer provides interactive 3D visualization of complex image data. These projects reflect his passion for building AI tools that are both innovative and user-friendly.  
 
-Before moving into computing, Xi earned his Bachelor’s degree in **Economics** at China Agricultural University and the University of Colorado Denver. His training in statistics, econometrics, and numerical analysis gave him strong analytical skills and a unique perspective on AI research.  
+Before moving into computing, Xi earned his Bachelor’s degree in Economics at China Agricultural University and the University of Colorado Denver. His training in statistics, econometrics, and numerical analysis gave him strong analytical skills and a unique perspective on AI research.  
 
-Outside of research, Xi enjoys **basketball 🏀, badminton, traveling ✈️, and playing guitar 🎸**. These activities keep him curious, creative, and balanced in both work and life.  
+Outside of research, Xi enjoys basketball 🏀, badminton, traveling ✈️, and playing guitar 🎸. These activities keep him curious, creative, and balanced in both work and life.  
 
 <!-- ## My Pub 
 
