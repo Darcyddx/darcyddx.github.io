@@ -26,15 +26,15 @@ a:active {
 
 <h2>Master</h2>
 
-* *17/07/2023 - Present*: **Australian National University (ANU)**  
+* *17/07/2023 - 01/07/2025*: **Australian National University (ANU)**  
   *Master of Computing*  
-  - Specialization: Machine learning, deep learning, and computer vision.
+  - Specialization: Machine learning
 
 ---
 
 <h2>Bachelor</h2>
 
 * *01/09/2019 - 01/06/2023*: **China Agricultural University (CAU)** & **University of Colorado Denver (UCD)**  
-  *Bachelor of Economics*  
-  - Specialization: Statistics, Econometrics and finance.  
+  *Bachelor of Arts*  
+  - Specialization: Economics
 
