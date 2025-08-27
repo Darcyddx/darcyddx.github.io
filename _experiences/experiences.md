@@ -32,7 +32,15 @@ For me, research isn’t just a process; it’s an adventure. It's about asking 
 
 ### Academic Research
 
-- **13/11/2024 - <font color="blue">Present</font>: Research Assistant**  
+- **17/03/2025 - <font color="blue">Present</font>: ARC Hub Scholar**  
+  *[Australian Research Hub (ARC) Research Hub](https://www.griffith.edu.au/griffith-sciences/farming-productivity)*  
+  *School of Engineering and Built Environment, Griffith University, Brisbane, Australia*  
+  - **Supervisor**: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) & [Dr. Lei Wang](https://leiwangr.github.io/)  
+  - Pursue research on interpretable and trustworthy machine learning, focusing on domain adaptation, temporal reasoning, and uncertainty-aware learning.  
+  - Develop principled frameworks to align feature, prediction, and structural representations for more reliable and explainable AI.  
+  - Contribute to cross-institutional collaborations, bringing transparency and robustness to real-world AI systems.  
+
+- **13/11/2024 - 16/03/2025: Research Assistant**  
   *[Temporal Intelligence and Motion Extraction (TIME) Lab](https://time.anu.edu.au/)*  
   *Australian National University (ANU), Canberra, Australia*  
   - **Supervisor**: [Dr. Lei Wang](https://leiwangr.github.io/)  
