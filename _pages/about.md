@@ -11,7 +11,7 @@ redirect_from:
 *From Code to Creation, with a touch of Chill.*
 
 ## About Me 🏄‍♂️ 
-Xi Ding is a researcher in **machine learning** with a focus on making artificial intelligence (AI) more **interpretable, robust, and trustworthy**. He recently completed his Master of Computing degree at the [Australian National University (ANU)](https://www.anu.edu.au) 🎓, where he specialized in machine learning. He is currently a visiting scholar at the [Australian Research Hub (ARC) Research Hub](https://www.griffith.edu.au/griffith-sciences/farming-productivity) hosted at Griffith University, contributing to projects on domain adaptation, temporal reasoning, and uncertainty-aware learning.  
+Xi Ding is a researcher in **machine learning** with a focus on making artificial intelligence (AI) more **interpretable, robust, and trustworthy**. He recently completed his Master of Computing degree at the [Australian National University (ANU)](https://www.anu.edu.au) 🎓, where he specialized in machine learning. He is currently a visiting scholar at the [Australian Research Council (ARC) Research Hub](https://www.griffith.edu.au/griffith-sciences/farming-productivity) hosted at Griffith University, contributing to projects on domain adaptation, temporal reasoning, and uncertainty-aware learning.  
 
 At the [TIME Lab](https://time.anu.edu.au/) ⏳, Xi worked as a Research Assistant, where he applied vision-language models to advance video understanding tasks such as action recognition and anomaly detection. His research focused on helping AI capture long-term patterns, improve interpretability, and provide clearer explanations for its decisions.   
 
