@@ -35,6 +35,23 @@ a:active {
 
 You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=hw1udTkAAAAJ&hl=zh-CN) profile.
 
+<h2>Conferences</h2>
+
+Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks/) system.
+
+<table id="gsc_a_t">
+	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Graph Your Own Prompt</span></strong></a>
+				<div class="gs_gray"><strong>X Ding</strong>, L Wang, P Koniusz, Y Gao</div>
+				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+	</tbody>
+</table>
+
 <h2>Workshops</h2>
 
 <table id="gsc_a_t">
@@ -76,5 +93,5 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <p>&nbsp;</p>
 
 <font size="3" color="blue">
-	Last updated: 30/04/2025.	
+	Last updated: 19/05/2025.	
 </font>
