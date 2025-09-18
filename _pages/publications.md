@@ -59,7 +59,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
-				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red">Oral, <strong>Best Paper Award</strong></font>]<br><a href="https://darcyddx.github.io/files/Best Paper Award.pdf" style="color:#000000;">Award certificate</a><br><a href="https://github.com/Darcyddx/Video-Action-Recognition" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
@@ -67,7 +67,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/vlm.pdf"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
-				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion)</div>
 			</td>
 			<td class="gsc_a_c"><font color="red">Oral</font> <br> <a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
