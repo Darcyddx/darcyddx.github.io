@@ -29,6 +29,7 @@ Outside of research, Xi enjoys basketball 🏀, badminton, traveling ✈️, and
 - **2025-01-28** — *The Journey of Action Recognition* accepted as an **Oral** in Companion Proceedings of the ACM Web Conference 2025.
 - **2025-01-28** — *Do Language Models Understand Time?* accepted as an **Oral** in Companion Proceedings of the ACM Web Conference 2025.
 - **2024-11-13** — Joined the **TIME Lab** (ANU) as a **Research Assistant**.
+
 ---
 ✨ **This site is a place to share my research, projects, and experiences!**  
 💡 Whether you’re here to learn about my work or explore my interests, I hope you find something interesting and useful! 
