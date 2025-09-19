@@ -57,7 +57,7 @@ Outside of research, Xi enjoys basketball 🏀, badminton, traveling ✈️, and
     Ding, X., Wang, L. “Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight.”  
     arXiv preprint (2024)
   </div>
-</div> --> 
+</div> 
 
 
 <!-- <div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
@@ -82,5 +82,5 @@ Outside of research, Xi enjoys basketball 🏀, badminton, traveling ✈️, and
     Ding, X., Wang, L. “Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight.”  
     arXiv preprint (2024) 
   </div>
-</div>
+</div> -->
 
