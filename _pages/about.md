@@ -59,8 +59,7 @@ Outside of research, Xi enjoys basketball 🏀, badminton, traveling ✈️, and
   </div>
 </div> 
 
-
-<!-- <div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
   <img src="/images/ar.gif" alt="The Journey of Action Recognition" width="120" />
   <div style="margin-left: 1rem;">
     Ding, X., Wang, L. “The Journey of Action Recognition.”  
