@@ -75,8 +75,6 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 	</tbody>
 </table>
 
-
-<!-- <p>&nbsp;</p> -->
 <h2>arXiv preprints</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
