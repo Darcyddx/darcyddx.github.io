@@ -23,16 +23,6 @@ a:active {
 }
 </style>
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en).
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %} 
-  {% include archive-single.html %}
-{% endfor %} -->
-
 You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=hw1udTkAAAAJ&hl=zh-CN) profile.
 
 <h2>Conferences</h2>
@@ -55,25 +45,31 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <h2>Workshops</h2>
 
 <table id="gsc_a_t">
-	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
-				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (<strong>WWW</strong>)</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red">Oral, <strong>Best Paper Award</strong></font>]<br><a href="https://darcyddx.github.io/files/Best Paper Award.pdf" style="color:#000000;">Award certificate</a><br><a href="https://github.com/Darcyddx/Video-Action-Recognition" style="color:#000000;">Code</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://darcyddx.github.io/files/vlm.pdf"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
-				<div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
-				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (<strong>WWW</strong>)</div>
-			</td>
-			<td class="gsc_a_c"><font color="red">Oral</font> <br> <a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-	</tbody>
+    <tbody id="gsc_a_b">
+        <tr class="gsc_a_tr">
+            <td class="gsc_a_t"><a href="https://darcyddx.github.io/files/ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
+                <div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
+                <div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (<strong>WWW</strong>)</div>
+            </td>
+            <td class="gsc_a_c">[<font color="red">Oral, <strong>Best Paper Award</strong></font>]<br>
+                <a href="https://darcyddx.github.io/files/Best Paper Award.pdf" style="color:#000000;">Award certificate</a><br>
+                <a href="https://github.com/Darcyddx/Video-Action-Recognition" style="color:#000000;">Code</a>
+            </td>
+            <td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+        </tr>
+        <tr class="gsc_a_tr">
+            <td class="gsc_a_t"><a href="https://darcyddx.github.io/files/vlm.pdf"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
+                <div class="gs_gray"><strong>X Ding</strong>, L Wang</div>
+                <div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (<strong>WWW</strong>)</div>
+            </td>
+            <td class="gsc_a_c"><font color="red">Oral</font><br>
+                <a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a>
+            </td>
+            <td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+        </tr>
+    </tbody>
 </table>
+
 
 <h2>arXiv preprints</h2>
 <table id="gsc_a_t">
