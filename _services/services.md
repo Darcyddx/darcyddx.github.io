@@ -68,6 +68,7 @@ Sydney, Australia<br>
 I regularly review technical papers for the following conferences. 
 
 **Conferences**:
+* The International Conference on Learning Representations (ICLR 2026)
 * Association for the Advancement of Artificial Intelligence (AAAI 2026)
 * IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS 2025)
 * IEEE International Conference on Multimedia & Expo (ICME 2025)
