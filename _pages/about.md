@@ -23,12 +23,12 @@ Outside of research, Xi enjoys basketball 🏀, badminton, traveling ✈️, and
 
 ## News 📪
 
-- **2025-09-18** — *Graph Your Own Prompt* accepted to **NeurIPS 2025**.
-- **2025-03-17** — Appointed as an **ARC Research Hub Scholar** at Griffith University.
-- **2025-03-16** — *The Journey of Action Recognition* received the **Best Paper Award** (Companion Proceedings of the ACM Web Conference 2025).
-- **2025-01-28** — *The Journey of Action Recognition* accepted as an **Oral** in Companion Proceedings of the ACM Web Conference 2025.
-- **2025-01-28** — *Do Language Models Understand Time?* accepted as an **Oral** in Companion Proceedings of the ACM Web Conference 2025.
-- **2024-11-13** — Joined the **TIME Lab** (ANU) as a **Research Assistant**.
+- 2025-09-18 — *Graph Your Own Prompt* accepted at **NeurIPS 2025**.
+- 2025-03-17 — Appointed as an **ARC Research Hub Scholar** at Griffith University.
+- 2025-03-16 — *The Journey of Action Recognition* received the **Best Paper Award** at the Companion Proceedings of the ACM Web Conference 2025.
+- 2025-01-28 — *The Journey of Action Recognition* accepted for Oral Presentation at the Companion Proceedings of the ACM Web Conference 2025.
+- 2025-01-28 — *Do Language Models Understand Time?* accepted for Oral Presentation at the Companion Proceedings of the ACM Web Conference 2025.
+- 2024-11-13 — Joined the **TIME Lab** (ANU) as a **Research Assistant**.
 
 ---
 ✨ **This site is a place to share my research, projects, and experiences!**  
