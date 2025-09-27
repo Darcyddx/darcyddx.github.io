@@ -19,7 +19,7 @@ Xi has published multiple first-author papers, including one at **NeurIPS**, a t
 
 In addition to academic work, Xi has built creative projects combining AI and real-world applications. His Active Vision project helps tennis players improve their swings with real-time feedback, while his Image Embedding Explorer provides interactive 3D visualization of complex image data. These projects reflect his passion for building AI tools that are both innovative and user-friendly.  
 
-Outside of research, Xi enjoys basketball 🏀, badminton, traveling ✈️, and playing guitar 🎸. These activities keep him curious, creative, and balanced in both work and life.  
+Outside of research, Xi enjoys basketball 🏀, badminton 🏸, traveling ✈️, and playing guitar 🎸. These activities keep him curious, creative, and balanced in both work and life.  
 
 ## News 📪
 
