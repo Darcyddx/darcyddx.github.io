@@ -36,7 +36,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray"><strong>X Ding</strong>, L Wang, P Koniusz, Y Gao</div>
 				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br> <a href="https://darcyddx.github.io/gcr/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br> <a href="https://darcyddx.github.io/gcr/" style="color:#000000;">Project website</a>, <a href="https://github.com/Darcyddx/gcr-code" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 	</tbody>
