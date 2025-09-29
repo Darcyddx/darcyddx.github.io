@@ -35,7 +35,7 @@ For me, research isn’t just a process; it’s an adventure. It's about asking 
 - **17/03/2025 - <font color="blue">Present</font>: ARC Hub Scholar**  
   *[Australian Research Council (ARC) Research Hub](https://www.griffith.edu.au/griffith-sciences/farming-productivity)*  
   *School of Engineering and Built Environment, Griffith University, Brisbane, Australia*  
-  - **Advisor**: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)  
+  - **Advisor**: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) & [Dr. Lei Wang](https://leiwangr.github.io/) 
   - Pursue research on interpretable and trustworthy machine learning, focusing on domain adaptation, temporal reasoning, and uncertainty-aware learning.  
   - Develop principled frameworks to align feature, prediction, and structural representations for more reliable and explainable AI.  
   - Contribute to cross-institutional collaborations, bringing transparency and robustness to real-world AI systems.  
