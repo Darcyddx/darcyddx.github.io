@@ -28,9 +28,13 @@ a:active {
 }
 </style>
 
-### Time Lab Research Project [Ongoing]
+### TIME Lab Research Project [Ongoing]
 
 My work delves into the fascinating field of AI explainability and transparency, where I explore how complex AI models can become more understandable and trustworthy. In a world increasingly shaped by AI-driven decisions, ensuring that these systems are interpretable is both a technical challenge and a moral imperative.
+
+Outputs:
+
+[Graph Your Own Prompt](https://darcyddx.github.io/files/neurips25_graph_camera.pdf), Advances in Neural Information Processing Systems (NeurIPS) 2025
 
 ---
 <!-- need to put images/videos in the left, words in the right -->
@@ -54,6 +58,8 @@ The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-ba
 The Active Vision project aims to develop an advanced computer vision system that analyzes the dynamics of tennis swings. Using cutting-edge machine learning techniques, this project focuses on capturing and analyzing motion data to provide players and coaches with detailed insights into swing mechanics. The system leverages high-speed cameras and advanced algorithms to track, interpret, and visualize the movements of a player's body and racket, enabling precise performance assessment and improvement.
 
 Objectives include: (i) Develop analytical algorithms: Create robust algorithms capable of analyzing the captured motion data to identify key performance indicators (KPIs) such as swing speed, angle, and impact accuracy. (ii) Real-time feedback: Implement a real-time feedback system that provides immediate insights and suggestions to players, enhancing their ability to correct and refine their techniques on the spot. (iii) User-friendly interface: Develop an intuitive interface that allows users to easily interact with the system, view their performance data, and track their progress over time.
+
+Outputs:
 
 [2024 S2 Poster](https://leiwangr.github.io/files/24-S2-2-Active-Vision.png), [2025 S1 Poster](https://leiwangr.github.io/images/Poster.pdf), [Demo video](https://darcyddx.github.io/images/demo.MP4)
 
