@@ -40,20 +40,17 @@ Outputs:
 <!-- need to put images/videos in the left, words in the right -->
 
 ### ANU TechLauncher - TIME Lab’s TIME Space [Ongoing]
+The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and group activity undertaken is real, not synthetic.
 
-[TIME Lab](https://time.griffith.edu.au/) is a dynamic team of honours and master's students working on final-year research projects. Over the past year, the team has made significant strides, not only in research but also in achieving a healthy work-life balance. To celebrate this progress, TIME Lab aims to design a website, TIME Space, to showcase the memorable moments of the past year. TIME Space will be a fully interactive platform where photos loop endlessly, following the dynamic motion of the TIME Lab logo. Users will be able to engage with the space by selecting specific time frames, locations, or individuals involved in the memories, creating a personalized experience that brings the past year to life.
+The [TIME Lab](https://time.griffith.edu.au/) brings together honours and master’s students working on innovative final-year research projects that balance technical achievement with creativity and collaboration. The TIME Space project aims to design and develop an interactive digital platform to showcase the memorable moments of the past year at TIME Lab. This platform will feature a dynamic photo experience where images loop continuously in motion inspired by the TIME Lab logo. Users will be able to navigate the space by selecting specific time frames, locations, or individuals, creating a personalized and immersive way to relive shared experiences.
 
-By undertaking this project, students will gain hands-on experience in full-stack development, designing and deploying a dynamic web application with advanced UX/UI features. They will enhance their skills in frontend and backend development, database management, and cloud deployment, while applying machine learning techniques for smart tagging and image processing. The project challenges students to solve real-world problems creatively, preparing them for professional environments and adding a portfolio-ready achievement to showcase their technical expertise.
-
-This project combines cutting-edge technologies with a meaningful goal: bringing memories to life through an innovative, interactive platform. Students will work in a collaborative, supportive environment, tackling challenges across web development, data visualization, and user interaction. With immediate application in the TIME Lab, the project provides a visible, impactful outcome, offering both personal and professional fulfillment while building critical, in-demand skills.
-
-Students undertaking this project will receive mentorship TIME Lab researchers, along with support from the ANU TechLauncher program, including access to workshops, industry connections, and project management tools. They will work in a collaborative environment, benefiting from feedback from peers and stakeholders. Key resources like cloud services, development platforms, and software tools for web development, machine learning, and UX/UI design will be provided. Regular technical guidance, testing support, and workshops on essential technologies will ensure students have everything needed to succeed.
+Objectives include: (i) Full-stack development: Build a scalable web application with advanced frontend and backend functionality, integrating cloud deployment and database management. (ii) Intelligent interaction: Apply machine learning techniques for smart tagging and image processing, enabling intuitive search and navigation through memories. (iii) Engaging UX/UI: Design and implement a user-friendly, visually dynamic interface that encourages exploration and interaction.
 
 ---
 
 ### ANU TechLauncher - Active Vision Project [Completed]
 
-The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic.
+The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and group activity undertaken is real, not synthetic.
 
 The Active Vision project aims to develop an advanced computer vision system that analyzes the dynamics of tennis swings. Using cutting-edge machine learning techniques, this project focuses on capturing and analyzing motion data to provide players and coaches with detailed insights into swing mechanics. The system leverages high-speed cameras and advanced algorithms to track, interpret, and visualize the movements of a player's body and racket, enabling precise performance assessment and improvement.
 
