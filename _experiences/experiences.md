@@ -44,18 +44,18 @@ For me, research isn’t just a process; it’s an adventure. It's about asking 
   *[Temporal Intelligence and Motion Extraction (TIME) Lab](https://time.anu.edu.au/)*  
   *Australian National University (ANU), Canberra, Australia*  
   - **Supervisor**: [Dr. Lei Wang](https://leiwangr.github.io/)  
-  - Conduct cutting-edge research in video understanding, focusing on action recognition, video anomaly detection, and multimodal learning.  
+  - Conduct cutting-edge research in video understanding, focusing on action recognition, video anomaly detection, vision-language models, and multimodal learning.  
   - Collaborate with a dynamic team to explore innovative approaches, turning curiosity into actionable discoveries.
 
 ---
 
 ### Industry
 
-- **11/2023 - 02/2024: Intern, Computing Department**  
+- **11/2023 - 02/2024: Research Intern, Computing Department**  
   *Qingdao Aerospace Power Research Institute, Qingdao, China*  
-  - Worked on the Digital Twin Project, developing interactive web-based interfaces to enhance simulation accuracy for aerospace systems.  
-  - Conducted detailed analysis of system behaviors, identifying inefficiencies and proposing optimization strategies.  
-  - Collaborated with engineers to bridge the gap between data and practical solutions, fueling my passion for solving real-world challenges.
+  - Supported a Digital Twin project by developing interactive web interfaces and high-fidelity simulation models.  
+  - Integrated sensor data into digital models to enable real-time monitoring and predictive maintenance. 
+  - Analyzed system behaviors to identify inefficiencies and proposed optimization strategies for aerospace power systems.
 
 - **06/2021 - 08/2021: Intern, Copper Metal Business Department**  
   *CNMC Trading Co., Ltd, Beijing, China*  
