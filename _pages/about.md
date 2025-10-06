@@ -11,15 +11,15 @@ redirect_from:
 *From Code to Creation, with a touch of Chill.*
 
 ## About Me 🏄‍♂️ 
-Xi Ding is a researcher in **machine learning** with a focus on making artificial intelligence (AI) more **interpretable, robust, and trustworthy**. He recently completed his Master of Computing degree at the Australian National University (ANU) 🎓, where he specialized in machine learning. He is currently a visiting scholar advised by [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) at the [Australian Research Council (ARC) Research Hub](https://www.griffith.edu.au/griffith-sciences/farming-productivity) hosted at Griffith University, contributing to projects on domain adaptation, temporal reasoning, and uncertainty-aware learning.  
+Xi Ding is a researcher in **machine learning** with a focus on making artificial intelligence (AI) more **interpretable, robust, and trustworthy**. He recently completed his Master of Computing degree at the Australian National University (ANU), where he specialized in machine learning. He is currently a visiting scholar advised by [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) at the [Australian Research Council (ARC) Research Hub](https://www.griffith.edu.au/griffith-sciences/farming-productivity) hosted at Griffith University, contributing to projects on domain adaptation, temporal reasoning, and uncertainty-aware learning.  
 
-At the [TIME Lab](https://time.griffith.edu.au/) ⏳, Xi worked as a Research Assistant supervised by [Dr. Lei Wang](https://leiwangr.github.io/), where he applied vision-language models to advance video understanding tasks such as action recognition and anomaly detection. His research focused on helping AI capture long-term patterns, improve interpretability, and provide clearer explanations for its decisions.   
+At the [TIME Lab](https://time.griffith.edu.au/), Xi worked as a Research Assistant supervised by [Dr. Lei Wang](https://leiwangr.github.io/), where he applied vision-language models to advance video understanding tasks such as action recognition and anomaly detection. His research focused on helping AI capture long-term patterns, improve interpretability, and provide clearer explanations for its decisions.   
 
 Xi has published multiple first-author papers, including one at Advances in Neural Information Processing Systems **(NeurIPS)**, a top machine learning conference worldwide, and two in the Companion Proceedings of The Web Conference **(WWW)**, where he received the **Best Paper Award 🏆**. Beyond publishing, he contributes actively to the academic community as a reviewer for conferences like ICLR, AAAI, ICME, and AVSS, and served as a Workshop Coordinator at WWW 2025.
 
 In addition to academic work, Xi has built creative projects combining AI and real-world applications. His Active Vision project helps tennis players improve their swings with real-time feedback, while his Image Embedding Explorer provides interactive 3D visualization of complex image data. These projects reflect his passion for building AI tools that are both innovative and user-friendly.  
 
-Outside of research, Xi enjoys basketball 🏀, badminton 🏸, traveling ✈️, and playing guitar 🎸. These activities keep him curious, creative, and balanced in both work and life.  
+Outside of research, Xi enjoys basketball, badminton, traveling, and playing guitar. These activities keep him curious, creative, and balanced in both work and life.  
 
 ## News 📪
 
