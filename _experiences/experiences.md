@@ -43,7 +43,7 @@ For me, research isn’t just a process; it’s an adventure. It's about asking 
 - **13/11/2024 - 16/03/2025: Research Assistant**  
   *[Temporal Intelligence and Motion Extraction (TIME) Lab](https://time.anu.edu.au/)*  
   *Australian National University (ANU), Canberra, Australia*  
-  - **Supervisor**: [Dr. Lei Wang](https://leiwangr.github.io/)  
+  - **Advisor**: [Dr. Lei Wang](https://leiwangr.github.io/)  
   - Conduct cutting-edge research in video understanding, focusing on action recognition, video anomaly detection, vision-language models, and multimodal learning.  
   - Collaborate with a dynamic team to explore innovative approaches, turning curiosity into actionable discoveries.
 
