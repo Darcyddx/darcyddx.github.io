@@ -25,8 +25,8 @@ Outside of research, Xi enjoys basketball, badminton, traveling, and playing gui
 - 2025-10-11 — Received the NeurIPS 2025 Scholar Award.
 - 2025-09-18 — *Graph Your Own Prompt* was accepted at **NeurIPS 2025**.
 - 2025-07-08 — Delivered an invited talk *Echoes in the Model: When Features Reflect Predictions* at the [Data61/CSIRO](https://research.csiro.au/data61/) ICVG Reading Group.
-- 2025-03-17 — Appointed as an ARC Research Hub Scholar at Griffith University.
-- 2025-03-16 — *The Journey of Action Recognition* won the **[Best Paper Award](https://darcyddx.github.io/files/Best%20Paper%20Award.pdf)** at the Companion Proceedings of the ACM Web Conference 2025.
+- 2025-03-17 — Appointed as an ARC Research Hub Scholar.
+- 2025-03-16 — *The Journey of Action Recognition* won the **Best Paper Award** at the Companion Proceedings of the ACM Web Conference 2025.
 - 2025-01-28 — *The Journey of Action Recognition* was accepted for Oral Presentation at the Companion Proceedings of the ACM Web Conference 2025.
 - 2025-01-28 — *Do Language Models Understand Time?* was accepted for Oral Presentation at the Companion Proceedings of the ACM Web Conference 2025.
 - 2024-11-13 — Joined the TIME Lab as a Research Assistant at ANU.
