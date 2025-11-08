@@ -34,7 +34,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t">
 				<a href="https://darcyddx.github.io/files/aaai26_time.pdf"><strong><span class="gsc_a_at">Learning Time in Static Classifiers</span></strong></a>
-				<div class="gs_gray">X Ding, <strong>L Wang</strong>, P Koniusz, Y Gao</div>
+				<div class="gs_gray"><strong>X Ding</strong>, L Wang, P Koniusz, Y Gao</div>
 				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
