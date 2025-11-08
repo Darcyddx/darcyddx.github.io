@@ -22,6 +22,7 @@ In addition to academic work, Xi has built creative projects combining AI and re
 Outside of research, Xi enjoys basketball, badminton, traveling, and playing guitar. These activities keep him curious, creative, and balanced in both work and life.  
 
 ## News 📪
+- 2025-11-08 — *Learning Time in Static Classifiers* was accepted at **AAAI 2026**.
 - 2025-10-11 — Received the NeurIPS 2025 Scholar Award.
 - 2025-09-18 — *Graph Your Own Prompt* was accepted at **NeurIPS 2025**.
 - 2025-07-08 — Delivered an invited talk *Echoes in the Model: When Features Reflect Predictions* at the [Data61/CSIRO](https://research.csiro.au/data61/) ICVG Reading Group.
