@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "my_photo.jpg"
   name             : "Xi Ding"
-  pronouns         : "Research Assistant & ARC Hub Scholar at TIME Lab"  
+  pronouns         : "CMU Research Intern & ARC Research Hub Scholar"  
   bio              : "ANU Master's Student"
-  location         : "ANU & ARC Hub & Griffith"
+  location         : # "ANU & ARC Hub & Griffith"
   uri              : # URL
-  email            : "x.ding@griffith.edu.au" 
+  email            : "darcyddx@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
