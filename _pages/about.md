@@ -20,13 +20,13 @@ With an interdisciplinary background bridging economics and machine learning, Xi
 Outside of research, Xi enjoys basketball, badminton, traveling, and playing guitar. These activities keep him curious, creative, and balanced in both work and life.  
 
 ## News 📪
-- 2025-11-08 — *Learning Time in Static Classifiers* was accepted at **AAAI 2026**.
+- 2025-11-08 — *Learning Time in Static Classifiers* was accepted at AAAI 2026.
 - 2025-10-21 — Joined the Xu Lab as a research intern at CMU.
 - 2025-10-11 — Received the NeurIPS 2025 Scholar Award.
-- 2025-09-18 — *Graph Your Own Prompt* was accepted at **NeurIPS 2025**.
+- 2025-09-18 — *Graph Your Own Prompt* was accepted at NeurIPS 2025.
 - 2025-07-08 — Delivered an invited talk *Echoes in the Model: When Features Reflect Predictions* at the [Data61/CSIRO](https://research.csiro.au/data61/) ICVG Reading Group.
 - 2025-03-17 — Appointed as an ARC Research Hub visiting scholar.
-- 2025-03-16 — *The Journey of Action Recognition* won the **Best Paper Award** at the Companion Proceedings of the ACM Web Conference 2025.
+- 2025-03-16 — *The Journey of Action Recognition* won the Best Paper Award at the Companion Proceedings of the ACM Web Conference 2025.
 - 2025-01-28 — *The Journey of Action Recognition* was accepted for Oral Presentation at the Companion Proceedings of the ACM Web Conference 2025.
 - 2025-01-28 — *Do Language Models Understand Time?* was accepted for Oral Presentation at the Companion Proceedings of the ACM Web Conference 2025.
 - 2024-11-13 — Joined the TIME Lab as a research assistant at ANU.
