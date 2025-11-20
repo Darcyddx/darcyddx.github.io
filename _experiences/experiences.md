@@ -32,7 +32,16 @@ For me, research isn’t just a process; it’s an adventure. It's about asking 
 
 ### Academic Research
 
-- **17/03/2025 - <font color="blue">Present</font>: ARC Hub Scholar**  
+- **18/10/2025 – <font color="blue">Present</font>: Research Intern**  
+  *Carnegie Mellon University (CMU)*  
+  *Xu Lab, Pittsburgh, USA*  
+  - **Advisor**: [Prof. Min Xu](https://xulabs.github.io/min-xu/)  
+  - Conduct research on trustworthy large language and vision–language models (LLM/VLM), with a focus on safety, reliability, and model behavior understanding.  
+  - Develop methods for evaluating and improving robustness, hallucination resistance, and multimodal alignment in next-generation LLM/VLM systems.  
+  - Apply machine learning to biomedical domains.
+
+
+- **17/03/2025 - 17/10/2025: ARC Hub Scholar**  
   *[Australian Research Council (ARC) Research Hub](https://www.griffith.edu.au/griffith-sciences/farming-productivity)*  
   *School of Engineering and Built Environment, Griffith University, Brisbane, Australia*  
   - **Advisor**: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) & [Dr. Lei Wang](https://leiwangr.github.io/) 
