@@ -10,7 +10,7 @@ redirect_from:
 **Code ⟇ Create ⟇ Chill**  
 *From Code to Creation, with a touch of Chill.*
 
-## About Me 🏄‍♂️ Machine Learning Researcher | Trustworthy & Interpretable AI 🤖
+## About Me <span style="font-weight: normal;">🏄‍♂️ Machine Learning Researcher | Trustworthy & Interpretable AI 🤖</span>
 Xi Ding is currently a research intern at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) on trustworthy LLM/VLM. Prior to CMU, he was a visiting scholar at the [Australian Research Council Research Hub (ARC)](https://www.griffith.edu.au/griffith-sciences/farming-productivity) working with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) on interpretable machine learning. Previously, he worked at the [TIME Lab](https://time.griffith.edu.au/) as a research assistant advised by [Dr. Lei Wang](https://leiwangr.github.io/), where he conducted research on video understanding tasks, particularly leveraging vision-language models to improve action recognition and anomaly detection. He completed his master's degree in Machine Learning at the Australian National University (ANU) in 2025 and his bachelor's degree in Economics at the China Agricultural Univeristy (CAU) and University of Colorado Denver (CU Denver) in 2023.
 
 Xi’s research centers on building **reliable, interpretable, and generalizable machine learning frameworks** and applications in **healthcare and biomedicine**. His work spans *multimodal learning, graph-based learning, trust-aware domain adaptation, temporal reasoning*, and *uncertainty-guided kernel methods for structured data*. Informed by his interdisciplinary background, Xi is especially attentive to how AI systems interface with human understanding and how their deployment impacts society. Across his research areas, he aims to uncover how models perceive, represent, and reason about complex information, ultimately advancing AI that is not only accurate, but also transparent, responsible, and beneficial in real-world settings.
@@ -18,6 +18,9 @@ Xi’s research centers on building **reliable, interpretable, and generalizable
 With an interdisciplinary background bridging economics and machine learning, Xi brings a unique analytical perspective to his research, enabling him to approach complex AI problems with both quantitative rigor and structural reasoning. Xi has published multiple first-author papers, including one at Advances in Neural Information Processing Systems **(NeurIPS)**, one at the AAAI Conference on Artificial Intelligence **(AAAI)**, and two in the Companion Proceedings of The Web Conference **(WWW)**, where he received the **Best Paper Award 🏆**. Beyond publishing, he contributes actively to the academic community as a reviewer for conferences like ICLR, AAAI, ICME, and AVSS, and served as a Workshop Coordinator at WWW 2025.
 
 Outside of research, Xi enjoys basketball, badminton, traveling, and playing guitar. These activities keep him curious, creative, and balanced in both work and life.  
+
+---
+I welcome discussions on research problems and am open to collaborations. Feel free to reach out at darcyddx [at] gmail [dot] com.
 
 ## News 📪
 - 2025-11-08 — *Learning Time in Static Classifiers* was accepted at AAAI 2026.
