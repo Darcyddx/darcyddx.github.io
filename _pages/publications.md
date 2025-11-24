@@ -97,5 +97,5 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <p>&nbsp;</p>
 
 <font size="3" color="blue">
-	Last updated: 19/05/2025.	
+	Last updated: 24/11/2025.	
 </font>
