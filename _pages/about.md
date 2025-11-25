@@ -21,7 +21,7 @@ Outside of research, I enjoy basketball, badminton, traveling, and playing guita
 
 I welcome discussions on research problems and am open to collaborations. Feel free to reach out at darcyddx [at] gmail [dot] com.
 
-## Short Bio 
+## Short Bio 🧑‍🔬
 
 Xi Ding is a researcher specializing in trustworthy and interpretable AI. He is currently a research intern at Carnegie Mellon University and has previously conducted research at the Australian Research Council Research Hub and the TIME Lab at the Australian National University. His work spans interpretable machine learning and computer vision, multimodal large language models, graph learning, kernel and tensor methods, and domain adaptation. Xi has published in top venues, including NeurIPS, AAAI, and received a Best Paper Award at a WWW workshop. Also, he actively contributes to the research community as a reviewer and coordinator. 
 
