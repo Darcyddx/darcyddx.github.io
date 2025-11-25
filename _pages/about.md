@@ -11,15 +11,14 @@ redirect_from:
 *From Code to Creation, with a touch of Chill.*
 
 ## About Me <span style="font-weight: normal;">🏄‍♂️ Machine Learning Researcher | Trustworthy & Interpretable AI</span>
-Xi Ding is currently a research intern at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) on trustworthy LLM/LVLM and AI4healthcare/biomedicine. Prior to CMU, he was a visiting scholar at the [Australian Research Council Research Hub (ARC)](https://www.griffith.edu.au/griffith-sciences/farming-productivity) working with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) on interpretable machine learning. Previously, he worked at the [TIME Lab](https://time.griffith.edu.au/) as a research assistant advised by [Dr. Lei Wang](https://leiwangr.github.io/), where he conducted research on video understanding tasks, particularly leveraging vision-language models to improve action recognition and anomaly detection. He completed his master's degree in Machine Learning at Australian National University (ANU) in 2025 and his bachelor's degree in Economics at China Agricultural Univeristy (CAU) and University of Colorado Denver (CU Denver) in 2023.
+I am currently a research intern at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) on trustworthy LLM/LVLM and AI4healthcare/biomedicine. Prior to CMU, I was a visiting scholar at the [Australian Research Council Research Hub (ARC)](https://www.griffith.edu.au/griffith-sciences/farming-productivity) working with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) on interpretable machine learning and computer vision. Previously, I worked at the [TIME Lab](https://time.griffith.edu.au/) at Australian National University (ANU) as a research assistant advised by [Dr. Lei Wang](https://leiwangr.github.io/), where I conducted research on video understanding tasks. I completed my master's degree in Machine Learning at ANU in 2025 and my bachelor's degree in Economics at China Agricultural Univeristy (CAU) and University of Colorado Denver (CU Denver) in 2023.
 
-Xi’s research centers on building **reliable, interpretable, and generalizable machine learning frameworks** and applications in **healthcare and biomedicine**. His work spans multimodal learning, graph-based learning, trust-aware domain adaptation, temporal reasoning, and uncertainty-guided kernel methods for structured data. Informed by his interdisciplinary background, Xi is especially attentive to how modern AI interface with *human understanding and how their deployment impacts society*. 
+My research centers on building **reliable, interpretable, and generalizable machine learning frameworks** and applications in **healthcare and biomedicine**. My work spans multimodal learning, graph-based learning, trust-aware domain adaptation, temporal reasoning, and uncertainty-guided kernel methods for structured data. Informed by my interdisciplinary background, I am especially attentive to how modern AI interfaces with *human understanding and how their deployment impacts society*.
 
-With an interdisciplinary background bridging economics and machine learning, Xi brings a unique analytical perspective to his research, enabling him to approach complex AI problems with both quantitative rigor and structural reasoning. Xi has published multiple first-author papers, including one at Advances in Neural Information Processing Systems **(NeurIPS)**, one at the AAAI Conference on Artificial Intelligence **(AAAI)**, and two in the Companion Proceedings of The Web Conference **(WWW)**, where he received the **Best Paper Award 🏆**. Beyond publishing, he contributes actively to the academic community as a reviewer for conferences like ICLR, AAAI, ICME, and AVSS, and served as a Workshop Coordinator at WWW 2025.
+With an interdisciplinary background bridging economics and machine learning, I bring a unique analytical perspective to my research, enabling me to approach complex AI problems with both quantitative rigor and structural reasoning. I have published multiple first-author papers, including one at Advances in Neural Information Processing Systems **(NeurIPS)**, one at the AAAI Conference on Artificial Intelligence **(AAAI)**, and two in the Companion Proceedings of The Web Conference **(WWW)**, where I received the **Best Paper Award 🏆**. Beyond publishing, I contribute actively to the academic community as a reviewer for conferences like *ICLR, AAAI, ICME, and AVSS*, and served as a Workshop Coordinator at WWW 2025.
 
-Outside of research, Xi enjoys basketball, badminton, traveling, and playing guitar. These activities keep him curious, creative, and balanced in both work and life.  
+Outside of research, I enjoy basketball, badminton, traveling, and playing guitar. These activities keep me curious, creative, and balanced in both work and life.
 
----
 I welcome discussions on research problems and am open to collaborations. Feel free to reach out at darcyddx [at] gmail [dot] com.
 
 ## News 📪
@@ -37,6 +36,10 @@ I welcome discussions on research problems and am open to collaborations. Feel f
 ---
 ✨ **This site is a place to share my research, projects, and experiences!**  
 💡 Whether you’re here to learn about my work or explore my interests, I hope you find something interesting and useful! 
+
+## Short Bio 
+
+Xi Ding is a researcher specializing in trustworthy and interpretable AI. He is currently a research intern at Carnegie Mellon University and has previously conducted research at the Australian Research Council Research Hub and the TIME Lab at the Australian National University. His work spans interpretable machine learning and computer vision, multimodal large language models, graph learning, kernel and tensor methods, and domain adaptation. Xi has published in top venues, including NeurIPS, AAAI, and received a Best Paper Award at a WWW workshop. Also, he actively contributes to the research community as a reviewer and coordinator. 
 
 <!-- ## News 📪
 
