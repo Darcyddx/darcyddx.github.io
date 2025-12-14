@@ -28,13 +28,14 @@ a:active {
 }
 </style>
 
-### TIME Lab Research Project [Ongoing]
+### ARC Research Hub Research Project [Ongoing]
 
 My work delves into the fascinating field of AI explainability and transparency, where I explore how complex AI models can become more understandable and trustworthy. In a world increasingly shaped by AI-driven decisions, ensuring that these systems are interpretable is both a technical challenge and a moral imperative.
 
 Outputs:
 
 [Graph Your Own Prompt](https://darcyddx.github.io/files/neurips25_graph_camera.pdf), Advances in Neural Information Processing Systems (NeurIPS) 2025
+[Learning Time in Static Classifiers](https://darcyddx.github.io/files/AAAI26_Learning_Time_in_Static_C.pdf), AAAI Conference on Artificial Intelligence (AAAI) 2026
 
 ---
 <!-- need to put images/videos in the left, words in the right -->
@@ -57,8 +58,7 @@ The Active Vision project aims to develop an advanced computer vision system tha
 Objectives include: (i) Develop analytical algorithms: Create robust algorithms capable of analyzing the captured motion data to identify key performance indicators (KPIs) such as swing speed, angle, and impact accuracy. (ii) Real-time feedback: Implement a real-time feedback system that provides immediate insights and suggestions to players, enhancing their ability to correct and refine their techniques on the spot. (iii) User-friendly interface: Develop an intuitive interface that allows users to easily interact with the system, view their performance data, and track their progress over time.
 
 Outputs:
-
-[2024 S2 Poster](https://leiwangr.github.io/files/24-S2-2-Active-Vision.png), [2025 S1 Poster](https://leiwangr.github.io/images/Poster.pdf), [Demo video](https://darcyddx.github.io/images/demo.MP4)
+[2025 S1 Poster](https://darcyddx.github.io/files/25-S1-2-Active-Vision.pdf), [2024 S2 Poster](https://darcyddx.github.io/files/24-S2-2-Active-Vision.png), [Demo video](https://darcyddx.github.io/images/demo.MP4)
 
 ---
 
