@@ -28,6 +28,7 @@ I welcome discussions on research problems and am open to collaborations. Feel f
 Xi Ding is a researcher studying machine learning through the lens of trustworthiness and interpretability. He is currently a research intern at Carnegie Mellon University and has previously conducted research at the Australian Research Council Research Hub and the TIME Lab at the Australian National University. His work spans interpretable machine learning and computer vision, multimodal large language models, graph learning, kernel and tensor methods, and domain adaptation. Xi has published in top venues, including NeurIPS, AAAI, and WWW. Also, he actively contributes to the research community as a reviewer and coordinator. 
 
 ## News 📪
+- 2025-12-03 — I presented my work at NeurIPS 2025 in San Diego.
 - 2025-11-08 — *Learning Time in Static Classifiers* was accepted at AAAI 2026.
 - 2025-10-21 — Joined the Xu Lab as a research intern at CMU.
 - 2025-10-11 — Received the NeurIPS 2025 Scholar Award.
