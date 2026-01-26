@@ -17,7 +17,7 @@ My research centers on building **reliable, interpretable, and generalizable mac
 
 <span style="color:#FF4500;">Research Passion</span>: I am deeply motivated by the question of how we can design AI systems that not only perform well, but also align with human understanding, operate transparently, and remain robust in high-stakes settings.
 
-With an interdisciplinary background bridging economics and machine learning, I bring a unique analytical perspective to my research, enabling me to approach complex AI problems with both quantitative rigor and structural reasoning. I have published multiple first-author papers, including one at Advances in Neural Information Processing Systems **(NeurIPS)**, one at the AAAI Conference on Artificial Intelligence **(AAAI)**, and two in the Companion Proceedings of The Web Conference **(WWW)**, where I received the **Best Paper Award 🏆**. Beyond publishing, I contribute actively to the academic community as a reviewer for conferences like *ICLR, AAAI, ICME, and AVSS*, and served as a Workshop Coordinator at WWW 2025.
+With an interdisciplinary background bridging economics and machine learning, I bring a unique analytical perspective to my research, enabling me to approach complex AI problems with both quantitative rigor and structural reasoning. I have published multiple first-author papers, including one at Advances in Neural Information Processing Systems **(NeurIPS)**, one at International Conference on Learning Representations **(ICLR)**, one at AAAI Conference on Artificial Intelligence **(AAAI)**, and two in the Companion Proceedings of The Web Conference **(WWW)**, where I received the **Best Paper Award 🏆**. Beyond publishing, I contribute actively to the academic community as a reviewer for conferences like *ICML, ICLR, AAAI, ICME, and AVSS*, and served as a Workshop Coordinator at WWW 2025.
 
 Outside of research, I enjoy basketball, badminton, traveling, and playing guitar. These activities keep me curious, creative, and balanced in both work and life.
 
@@ -28,6 +28,7 @@ I welcome discussions on research problems and am open to collaborations. Feel f
 Xi Ding is a researcher studying machine learning through the lens of trustworthiness and interpretability. He is currently a research intern at Carnegie Mellon University and has previously conducted research at the Australian Research Council Research Hub and the TIME Lab at the Australian National University. His work spans interpretable machine learning and computer vision, multimodal large language models, graph learning, kernel and tensor methods, and domain adaptation. Xi has published in top venues, including NeurIPS, AAAI, and WWW. Also, he actively contributes to the research community as a reviewer and coordinator. 
 
 ## News 📪
+- 2026-01-26 — *Subspace Kernel Learning on Tensor Sequences* was accepted at ICLR 2026.
 - 2025-12-03 — I presented my work at NeurIPS 2025 in San Diego.
 - 2025-11-08 — *Learning Time in Static Classifiers* was accepted at AAAI 2026.
 - 2025-10-21 — Joined the Xu Lab as a research intern at CMU.
