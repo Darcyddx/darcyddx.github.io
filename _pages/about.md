@@ -34,6 +34,7 @@ Xi Ding is a researcher studying machine learning through the lens of trustworth
 - 2025-10-11 — Received the NeurIPS 2025 Scholar Award.
 - 2025-09-18 — *Graph Your Own Prompt* was accepted at NeurIPS 2025.
 - 2025-07-08 — Delivered an invited talk *Echoes in the Model: When Features Reflect Predictions* at the [Data61/CSIRO](https://research.csiro.au/data61/) ICVG Reading Group.
+- 2025-04-29 — I presented my works at WWW 2025 in Sydney.
 - 2025-03-17 — Appointed as an ARC Research Hub visiting scholar.
 - 2025-03-16 — *The Journey of Action Recognition* won the Best Paper Award at the Companion Proceedings of the ACM Web Conference 2025.
 - 2025-01-28 — *The Journey of Action Recognition* was accepted for Oral Presentation at the Companion Proceedings of the ACM Web Conference 2025.
