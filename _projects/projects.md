@@ -33,8 +33,9 @@ a:active {
 My work delves into the fascinating field of AI explainability and transparency, where I explore how complex AI models can become more understandable and trustworthy. In a world increasingly shaped by AI-driven decisions, ensuring that these systems are interpretable is both a technical challenge and a moral imperative.
 
 Outputs:
-
 [Graph Your Own Prompt](https://darcyddx.github.io/files/neurips25_graph_camera.pdf), Advances in Neural Information Processing Systems (NeurIPS) 2025
+
+[Subspace Kernel Learning on Tensor Sequences](), International Conference on Learning Representations (ICLR) 2026
 
 [Learning Time in Static Classifiers](https://darcyddx.github.io/files/AAAI26_Learning_Time_in_Static_C.pdf), AAAI Conference on Artificial Intelligence (AAAI) 2026
 
