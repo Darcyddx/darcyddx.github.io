@@ -29,13 +29,13 @@ Xi Ding is a researcher studying machine learning through the lens of trustworth
 
 ## News 📪
 - 2026-01-26 — *Subspace Kernel Learning on Tensor Sequences* was accepted at ICLR 2026.
-- 2025-12-03 — I presented my work at NeurIPS 2025 in San Diego.
+- 2025-12-03 — I presented my work at NeurIPS 2025 in San Diego, USA.
 - 2025-11-08 — *Learning Time in Static Classifiers* was accepted at AAAI 2026.
 - 2025-10-21 — Joined the Xu Lab as a research intern at CMU.
 - 2025-10-11 — Received the NeurIPS 2025 Scholar Award.
 - 2025-09-18 — *Graph Your Own Prompt* was accepted at NeurIPS 2025.
 - 2025-07-08 — Delivered an invited talk *Echoes in the Model: When Features Reflect Predictions* at the [Data61/CSIRO](https://research.csiro.au/data61/) ICVG Reading Group.
-- 2025-04-29 — I presented my works at WWW 2025 in Sydney.
+- 2025-04-29 — I presented my works at WWW 2025 in Sydney, Australia.
 - 2025-03-17 — Appointed as an ARC Research Hub visiting scholar.
 - 2025-03-16 — *The Journey of Action Recognition* won the Best Paper Award at the Companion Proceedings of the ACM Web Conference 2025.
 - 2025-01-28 — *The Journey of Action Recognition* was accepted for Oral Presentation at the Companion Proceedings of the ACM Web Conference 2025.
