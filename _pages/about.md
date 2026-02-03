@@ -47,7 +47,6 @@ Xi Ding is a researcher studying machine learning through the lens of trustworth
 💡 Whether you’re here to learn about my work or explore my interests, I hope you find something interesting and useful! 
 
 <!-- ## News 📪
-
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/images/ar.gif" alt="The Journey of Action Recognition" width="120" />
   <div style="margin-left: 1rem;">
