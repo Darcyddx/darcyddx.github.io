@@ -65,7 +65,7 @@ Sydney, Australia<br>
 <!-- Paper Reviewing====== -->
 
 <h2>Review</h2>
-I regularly review technical papers for the following conferences. 
+I have reviewed technical papers for the following conferences. 
 
 **Conferences**:
 * The International Conference on Learning Representations (ICLR 2026)
