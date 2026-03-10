@@ -36,7 +36,7 @@ Outputs:
 
 [Graph Your Own Prompt](https://darcyddx.github.io/files/neurips25_graph_camera.pdf), Advances in Neural Information Processing Systems (NeurIPS) 2025
 
-[Subspace Kernel Learning on Tensor Sequences](), International Conference on Learning Representations (ICLR) 2026
+[Subspace Kernel Learning on Tensor Sequences](https://openreview.net/forum?id=kv22NbU2T2), International Conference on Learning Representations (ICLR) 2026
 
 [Learning Time in Static Classifiers](https://darcyddx.github.io/files/AAAI26_Learning_Time_in_Static_C.pdf), AAAI Conference on Artificial Intelligence (AAAI) 2026
 
