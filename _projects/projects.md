@@ -28,7 +28,7 @@ a:active {
 }
 </style>
 
-### ARC Research Hub Research Project [Ongoing]
+### ARC Research Hub Research Project [Completed]
 
 My work delves into the fascinating field of AI explainability and transparency, where I explore how complex AI models can become more understandable and trustworthy. In a world increasingly shaped by AI-driven decisions, ensuring that these systems are interpretable is both a technical challenge and a moral imperative.
 
@@ -43,7 +43,7 @@ Outputs:
 ---
 <!-- need to put images/videos in the left, words in the right -->
 
-### ANU TechLauncher - TIME Lab’s TIME Space [Ongoing]
+### ANU TechLauncher - TIME Lab’s TIME Space [Completed]
 The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and group activity undertaken is real, not synthetic.
 
 The [TIME Lab](https://time.griffith.edu.au/) brings together honours and master’s students working on innovative final-year research projects that balance technical achievement with creativity and collaboration. The TIME Space project aims to design and develop an interactive digital platform to showcase the memorable moments of the past year at TIME Lab. This platform will feature a dynamic photo experience where images loop continuously in motion inspired by the TIME Lab logo. Users will be able to navigate the space by selecting specific time frames, locations, or individuals, creating a personalized and immersive way to relive shared experiences.
