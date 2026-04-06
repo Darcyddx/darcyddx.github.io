@@ -11,7 +11,7 @@ redirect_from:
 *From Code to Creation, with a touch of Chill.*
 
 ## About Me <span style="font-weight: normal;">🏄‍♂️ Machine Learning Researcher | Trustworthy & Interpretable AI</span>
-I am currently a research intern at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) on trustworthy LLMs/LVLMs and AI4Healthcare/Biomedicine. Prior to CMU, I was a visiting scholar at the [Australian Research Council Research Hub (ARC)](https://www.griffith.edu.au/griffith-sciences/farming-productivity) working with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) on interpretable machine learning. Previously, I worked at the [TIME Lab](https://time.griffith.edu.au/) at Australian National University (ANU) as a research assistant advised by [Dr. Lei Wang](https://leiwangr.github.io/), where I conducted research on video understanding. 
+I am an incoming PhD student in Computer Sciences at the UW–Madison. Previously, I was a research intern at Carnegie Mellon University (CMU), where I worked with Prof. [Min Xu](https://xulabs.github.io/min-xu/) on trustworthy LLMs/LVLMs and AI4Healthcare/Biomedicine. I also worked as a visiting scholar at the [Australian Research Council Research Hub (ARC)](https://www.griffith.edu.au/griffith-sciences/farming-productivity) with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) on interpretable machine learning, and as a research assistant at the [TIME Lab](https://time.griffith.edu.au/) at the Australian National University (ANU), advised by [Dr. Lei Wang](https://leiwangr.github.io/), where I conducted research on video understanding.
 
 My research centers on building **reliable, interpretable, and generalizable AI/ML frameworks**. My work spans representation learning, graph-based learning, trust-aware domain adaptation, temporal reasoning, and uncertainty-guided kernel methods, video understanding, and LLMs. 
 
@@ -28,6 +28,7 @@ I welcome discussions on research problems and am open to collaborations. Feel f
 Xi Ding is an AI/ML researcher whose work approaches problems through the lens of trustworthiness and interpretability. He is currently a research intern at Carnegie Mellon University (CMU) and has previously conducted research at the Australian Research Council Research Hub (ARC) and the TIME Lab at the Australian National University (ANU). His work spans machine learning, computer vision, LLMs, graph learning, kernel and tensor methods, and domain adaptation. Xi has published in top venues, including NeurIPS, ICLR, AAAI, and WWW. Also, he actively contributes to the research community as a reviewer and coordinator. 
 
 ## News 📪
+- 2026-04-06 — I’m excited to join the Computer Sciences PhD program at UW–Madison.
 - 2026-01-26 — *Subspace Kernel Learning on Tensor Sequences* was accepted at ICLR 2026.
 - 2025-12-03 — I presented my work at NeurIPS 2025 in San Diego, USA.
 - 2025-11-08 — *Learning Time in Static Classifiers* was accepted at AAAI 2026.
