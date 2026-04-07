@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Xi Ding</title>
+  <meta name="description" lang="en" content="Xi Ding's academic homepage">
+  <meta name="keywords" lang="en" content="Xi Ding, Machine Learning, UW-Madison, CMU, ANU, Trustworthy AI, LLMs" />
+
+  <link rel="shortcut icon" href="images/my_photo.jpg">
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+  <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+
+  <!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.js">
+</script>
+<![endif]-->
+
+  <script type="text/javascript">
+    function ShowHide(divId, linkDivId) {
+        if(document.getElementById(divId).style.display == 'none') {
+            document.getElementById(divId).style.display='block';
+            document.getElementById(linkDivId).style.display='none';
+        }
+        else {
+            document.getElementById(divId).style.display = 'none';
+        }
+    }
+  </script>
+
+  <style>
+    li.indented {
+        position: relative;
+        padding-left: 110px;
+    }
+
+    li.indented::before {
+        content: attr(data-date);
+        position: absolute;
+        left: 0;
+        top: 0;
+        white-space: nowrap;
+    }
+  </style>
+
+</head>
+
+
+<body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+<nav class="site-nav">
+  <a href="#" class="menu-icon">
+    <svg viewBox="0 0 18 15">
+      <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+      <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+      <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+    </svg>
+  </a>
+
+  <div class="trigger">
+    <a class="page-link" href="#bio"><b>Biography</b></a>
+    <a class="page-link" href="#news"><b>News</b></a>
+    <!-- <a class="page-link" href="#timeline"><b>Experiences</b></a> -->
+    <a class="page-link" href="#publications"><b>Publications</b></a>
+    <a class="page-link" href="#awards"><b>Honors & Awards</b></a>
+    <a class="page-link" href="#academicservices"><b>Academic Services</b></a>
+  </div>
+</nav>
+  </div>
+</header>
+
+  <div id="profile-cover" class="cover shallow-bg img-responsive">
+    <div id="profile-namecard" class="profile-wrapper wrapper-light">
+      <div id="my-pic" class="profile-col profile-col-1">
+        <img id="profile-avatar" src="images/my_photo.jpg" alt="Me" class="circle-img border-dark"/>
+      </div>
+      <div id="my-contact" class="profile-col profile-col-2">
+        <div id="my-name" class="text-grey-dark">
+          Xi Ding<br>
+        </div>
+        <div id="my-title" class="text-grey">
+          Incoming PhD Student @ UW&ndash;Madison
+        </div>
+        <div id="my-email" class="text-grey-light">
+          darcyddx [at] gmail [dot] com
+        </div>
+
+	</div>
+        <div class="social-media">
+          <a href="https://scholar.google.com/citations?user=hw1udTkAAAAJ&hl=zh-CN" target="_blank" class="icon-button linkedin">
+          <i class="ai ai-google-scholar-square icon-linkedin"></i>
+            <span></span>
+          </a>
+
+          <a href="https://github.com/Darcyddx" target="_blank" class="icon-button github">
+            <i class="fa fa-github icon-github"></i>
+            <span></span>
+          </a>
+
+          <a href="https://orcid.org/0009-0005-5309-4340" target="_blank" class="icon-button linkedin">
+            <i class="ai ai-orcid icon-linkedin"></i>
+            <span></span>
+          </a>
+
+          <a href="http://linkedin.com/in/xi-ding-0a5496354" target="_blank" class="icon-button linkedin">
+            <i class="fa fa-linkedin icon-linkedin"></i>
+            <span></span>
+          </a>
+
+          <a href="mailto:darcyddx@gmail.com" target="_blank" class="icon-button linkedin">
+            <i class="fa fa-envelope icon-linkedin"></i>
+            <span></span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="page-content">
+<div class="wrapper">
+<div id="bio" class="bio">
+
+  <h1 class="md-heading text-left">
+    <i class="fa fa-id-card" aria-hidden="true"></i>
+    About
+  </h1>
+  <div class="bio-body" style="overflow:hidden;">
+    <p>
+      I am an incoming PhD student in Computer Sciences at the <a href="https://www.wisc.edu/" target="_blank">University of Wisconsin&ndash;Madison</a>. Previously, I was a research intern at <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University (CMU)</a>, where I worked with <a href="https://xulabs.github.io/" target="_blank">Prof. Min Xu</a> on trustworthy LLMs/LVLMs and AI4Healthcare/Biomedicine. I also worked as a visiting scholar at the <a href="https://www.griffith.edu.au/" target="_blank">Australian Research Council Research Hub (ARC)</a> with <a href="https://experts.griffith.edu.au/7205-yongsheng-gao" target="_blank">Prof. Yongsheng Gao</a> on interpretable machine learning, and as a research assistant at the TIME Lab at the <a href="https://www.anu.edu.au/" target="_blank">Australian National University (ANU)</a>, advised by <a href="https://leiwangr.github.io/" target="_blank">Dr. Lei Wang</a>, where I conducted research on video understanding.
+    </p>
+
+    <p>
+      My research centers on building reliable, interpretable, and generalizable AI/ML frameworks. My work spans representation learning, graph-based learning, trust-aware domain adaptation, temporal reasoning, uncertainty-guided kernel methods, video understanding, and LLMs.
+    </p>
+
+    <p>
+      <b>Research Passion:</b> I am deeply motivated by the question of how we can design AI systems that not only perform well, but also align with human understanding, operate transparently, and remain robust in high-stakes settings.
+    </p>
+
+    <p>
+      With an interdisciplinary background bridging economics and machine learning, I bring a unique analytical perspective to my research, enabling me to approach complex AI problems with both quantitative rigor and structural reasoning. I have published multiple first-author papers, including one at <b>NeurIPS</b>, one at <b>ICLR</b>, one at <b>AAAI</b>, and two in the Companion Proceedings of <b>The Web Conference (WWW)</b>, where I received the <b>Best Paper Award</b>. Beyond publishing, I contribute actively to the academic community as a reviewer for conferences like ICLR, AAAI, ICME, and AVSS, and served as a Workshop Coordinator at WWW 2025.
+    </p>
+
+    <p>
+      Outside of research, I enjoy basketball, badminton, traveling, and playing guitar. These activities keep me curious, creative, and balanced in both work and life.
+    </p>
+
+    <p>
+      I welcome discussions on research problems and am open to collaborations. Feel free to reach out at <a href="mailto:darcyddx@gmail.com">darcyddx [at] gmail [dot] com</a>.
+    </p>
+
+    <div style="width: 50%; float:left">
+			<h3>
+		    <i class="fa fa-star" aria-hidden="true"></i>
+		    <strong>Interests</strong>
+			</h3>
+      <ul>
+        <li><b>Trustworthy & Interpretable AI</b></li>
+        <li><b>Representation Learning</b></li>
+        <li><b>Graph-based Learning</b></li>
+        <li><b>Domain Adaptation</b></li>
+        <li><b>Temporal Reasoning & Video Understanding</b></li>
+        <li><b>LLMs/LVLMs</b></li>
+        <li><b>Kernel & Tensor Methods</b></li>
+      </ul>
+    </div>
+
+    <div style="width: 50%; float:right">
+			<h3>
+				<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+				<strong>Education</strong>
+			</h3>
+			<b>University of Wisconsin&ndash;Madison</b><br>
+			<ul>
+        <li>PhD student in Computer Sciences (Incoming)</li>
+      </ul>
+      <b>Australian National University (ANU)</b><br>
+			<ul>
+        <li>Master's in Machine Learning</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+<div id="news" class="bio">
+  <h1 class="md-heading text-left">
+    <i class="fa fa-newspaper-o" aria-hidden="true"></i>
+    News
+  </h1>
+  <ul>
+    <li class="indented" data-date="[2026-04-06]"> I'm excited to join the Computer Sciences PhD program at UW&ndash;Madison.</li>
+    <li class="indented" data-date="[2026-01-26]"> <i>Subspace Kernel Learning on Tensor Sequences</i> was accepted at <b>ICLR 2026</b>.</li>
+    <li class="indented" data-date="[2025-12-03]"> I presented my work at <b>NeurIPS 2025</b> in San Diego, USA.</li>
+    <li class="indented" data-date="[2025-11-08]"> <i>Learning Time in Static Classifiers</i> was accepted at <b>AAAI 2026</b>.</li>
+    <li class="indented" data-date="[2025-10-21]"> Joined the Xu Lab as a research intern at <b>CMU</b>.</li>
+    <li class="indented" data-date="[2025-10-11]"> Received the <b>NeurIPS 2025 Scholar Award</b>.</li>
+    <li class="indented" data-date="[2025-09-18]"> <i>Graph Your Own Prompt</i> was accepted at <b>NeurIPS 2025</b>.</li>
+    <li class="indented" data-date="[2025-07-08]"> Delivered an invited talk <i>Echoes in the Model: When Features Reflect Predictions</i> at the Data61/CSIRO ICVG Reading Group.</li>
+    <li class="indented" data-date="[2025-04-29]"> I presented my works at <b>WWW 2025</b> in Sydney, Australia.</li>
+    <li class="indented" data-date="[2025-03-17]"> Appointed as an ARC Research Hub visiting scholar.</li>
+    <li class="indented" data-date="[2025-03-16]"> <i>The Journey of Action Recognition</i> won the <b>Best Paper Award</b> at the Companion Proceedings of the ACM Web Conference 2025.</li>
+    <li class="indented" data-date="[2025-01-28]"> <i>The Journey of Action Recognition</i> was accepted for <b>Oral Presentation</b> at the Companion Proceedings of the ACM Web Conference 2025.</li>
+    <li class="indented" data-date="[2025-01-28]"> <i>Do Language Models Understand Time?</i> was accepted for <b>Oral Presentation</b> at the Companion Proceedings of the ACM Web Conference 2025.</li>
+    <li class="indented" data-date="[2024-11-13]"> Joined the TIME Lab as a research assistant at <b>ANU</b>.</li>
+  </ul>
+</div>
+
+  <!--
+  <div id="timeline" class="timeline-brief">
+    <h1 class="md-heading text-left">
+      <i class="fa fa-tasks" aria-hidden="true"></i>
+      Experiences
+    </h1>
+
+    <div class="timeline-body">
+      <div class="timeline-item">
+        <div class="timeline-date">
+          <img class="social-icon" src="images/your-logo.png"/>
+          Month, Year - Month, Year
+        </div>
+        <div class="timeline-title">
+          Your Role @ <a href="https://example.com" target="_blank">Organization</a>
+        </div>
+        <div class="timeline-desc">
+          <b>Description of your work.</b>
+          <div class="timeline-host">
+            Supervisor: <a href="https://example.com" target="_blank">Supervisor Name</a>
+          </div>
+        </div>
+      </div>
+    <br>
+  </div>
+  </div>
+  -->
+
+
+<div id="publications" class="publications">
+  <h1 class="md-heading text-left">
+    <i class="fa fa-file" aria-hidden="true"></i>
+    Publications
+  </h1>
+
+  <div class="pub-list">
+
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub/ICLR_0.png">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          Subspace Kernel Learning on Tensor Sequences
+        </div>
+        <div class="authors">
+          <font style="font-size: 11pt;">
+            L Wang*, <b>X Ding</b>*, Y Gao, P Koniusz
+          </font>
+        </div>
+        <div class="publish">
+          <span class="place">ICLR 2026</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://openreview.net/forum?id=kv22NbU2T2" target="_blank">Paper</a>]
+        </div>
+      </div>
+    </div>
+
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub/AAAI_0.png">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          Learning Time in Static Classifiers
+        </div>
+        <div class="authors">
+          <font style="font-size: 11pt;">
+            <b>X Ding</b>, L Wang, P Koniusz, Y Gao
+          </font>
+        </div>
+        <div class="publish">
+          <span class="place">AAAI 2026</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://darcyddx.github.io/files/aaai26_time.pdf" target="_blank">Paper</a>]
+          [<a class="tag" href="https://darcyddx.github.io/seq/" target="_blank">Project</a>]
+          [<a class="tag" href="https://github.com/Darcyddx/time-seq" target="_blank">Code</a>]
+        </div>
+      </div>
+    </div>
+
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub/Nips_0.png">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          Graph Your Own Prompt
+        </div>
+        <div class="authors">
+          <font style="font-size: 11pt;">
+            <b>X Ding</b>, L Wang, P Koniusz, Y Gao
+          </font>
+        </div>
+        <div class="publish">
+          <span class="place">NeurIPS 2025</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://darcyddx.github.io/files/neurips25_graph_camera.pdf" target="_blank">Paper</a>]
+          [<a class="tag" href="https://darcyddx.github.io/gcr/" target="_blank">Project</a>]
+          [<a class="tag" href="https://github.com/Darcyddx/graph-prompt" target="_blank">Code</a>]
+        </div>
+      </div>
+    </div>
+
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub/action.gif">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          The Journey of Action Recognition
+        </div>
+        <div class="authors">
+          <font style="font-size: 11pt;">
+            <b>X Ding</b>, L Wang
+          </font>
+        </div>
+        <div class="publish">
+          <span class="place">WWW 2025 (Companion)</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://darcyddx.github.io/files/ar.pdf" target="_blank">Paper</a>]
+          [<a class="tag" href="https://darcyddx.github.io/files/Best Paper Award.pdf" target="_blank">Award Certificate</a>]
+          [<a class="tag" href="https://github.com/Darcyddx/Video-Action-Recognition" target="_blank">Code</a>]
+          <span style="color: red; font-weight: bold;">Oral, Best Paper Award</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub/WWW_1.png">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          Do Language Models Understand Time?
+        </div>
+        <div class="authors">
+          <font style="font-size: 11pt;">
+            <b>X Ding</b>, L Wang
+          </font>
+        </div>
+        <div class="publish">
+          <span class="place">WWW 2025 (Companion)</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://darcyddx.github.io/files/vlm.pdf" target="_blank">Paper</a>]
+          [<a class="tag" href="https://github.com/Darcyddx/Video-LLM" target="_blank">Code</a>]
+          <span style="color: red; font-weight: bold;">Oral</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/Pub/vadlm.png">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight
+        </div>
+        <div class="authors">
+          <font style="font-size: 11pt;">
+            <b>X Ding</b>, L Wang
+          </font>
+        </div>
+        <div class="publish">
+          <span class="place">arXiv 2024</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://darcyddx.github.io/files/vad.pdf" target="_blank">Paper</a>]
+          [<a class="tag" href="https://github.com/Darcyddx/VAD-LLM" target="_blank">Code</a>]
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</div>
+</div>
+
+<div class="wrapper">
+  <div id="awards" class="bio">
+    <h1 class="md-heading text-left">
+      <i class="fa fa-trophy" aria-hidden="true"></i>
+      Selected Honors & Awards
+    </h1>
+    <ul>
+      <li><b>NeurIPS 2025 Scholar Award</b>, NeurIPS 2025 <span style="float:right;">Oct 11, 2025</span></li>
+      <li><b>Best Paper Award</b>, The Web Conference (WWW 2025) <span style="float:right;">Apr 29, 2025</span></li>
+      <li><b>TIME 2025 Service Medal</b>, TIME Lab <span style="float:right;">May 1, 2025</span></li>
+      <li><b>Certificate of Nomination</b>, Student Pitch Competition at ANU <span style="float:right;">Nov 27, 2024</span></li>
+      <li><b>Outstanding Academic Achievements Scholarship</b>, University of Colorado Denver <span style="float:right;">Dec 1, 2021</span></li>
+    </ul>
+  </div>
+</div>
+
+<style>
+  .service-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 0.92em;
+  }
+  .service-table th, .service-table td {
+    border: 1px solid #ccc;
+    padding: 8px 10px;
+    text-align: left;
+    vertical-align: top;
+  }
+  .service-table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+  }
+  .reviewer-section {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8px;
+  }
+  .reviewer-column {
+    flex: 1 1 50%;
+    box-sizing: border-box;
+    padding-right: 20px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    position: relative;
+    padding-left: 1em;
+    margin-bottom: 4px;
+  }
+  .reviewer-column::before {
+    content: "\2022";
+    position: absolute;
+    left: 0;
+    color: #555;
+  }
+  @media (max-width: 600px) {
+    .reviewer-column {
+      flex: 1 1 100%;
+    }
+  }
+  .reviewer-title {
+    margin-top: 12px;
+    font-weight: bold;
+  }
+</style>
+
+<div class="wrapper">
+  <div id="academicservices" class="bio">
+    <div class="bio-body" style="overflow:hidden;">
+      <h1 class="md-heading text-left">
+        <i class="fa fa-tasks" aria-hidden="true"></i>
+        Academic Services
+      </h1>
+
+      <div class="reviewer-title">Invited Talk</div>
+      <table class="service-table">
+        <tr>
+          <th>Topic</th>
+          <th>Host</th>
+          <th>Description</th>
+          <th>Date</th>
+        </tr>
+        <tr>
+          <td>Echoes in the Model: When Features Reflect Predictions <a href="https://darcyddx.github.io/files/echos_slides.pdf" target="_blank">[slides]</a></td>
+          <td><a href="https://people.csiro.au/Z/M/miaohua-zhang" target="_blank">Dr. Miaohua Zhang</a>, <a href="https://research.csiro.au/data61/" target="_blank">Data61/CSIRO</a>, Canberra, Australia</td>
+          <td>Data61/CSIRO ICVG Reading Group</td>
+          <td>08 July 2025</td>
+        </tr>
+      </table>
+
+      <div class="reviewer-title">Workshop Coordinating</div>
+      <table class="service-table">
+        <tr>
+          <th>Workshop Title</th>
+          <th>Workshop Overview</th>
+          <th>Conference Details</th>
+        </tr>
+        <tr>
+          <td><b>TIME 2025</b>: 1st International Workshop on <b>T</b>ransformative <b>I</b>nsights in <b>M</b>ulti-faceted <b>E</b>valuation <a href="https://time.griffith.edu.au/workshop/time2025/" target="_blank">[Homepage]</a></td>
+          <td>Cross-domain knowledge exchange and adaptation, bridging successful methodologies across diverse fields. <a href="https://leiwangr.github.io/files/time2025.pdf" target="_blank">[Workshop summary]</a></td>
+          <td>The Web Conference 2025<br>Sydney, Australia<br>28 April &ndash; 2 May 2025</td>
+        </tr>
+      </table>
+
+      <div class="reviewer-title">Conference Reviewer</div>
+      <div class="reviewer-section">
+        <div class="reviewer-column">The International Conference on Learning Representations (ICLR 2026)</div>
+        <div class="reviewer-column">Association for the Advancement of Artificial Intelligence (AAAI 2026)</div>
+        <div class="reviewer-column">IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS 2025)</div>
+        <div class="reviewer-column">IEEE International Conference on Multimedia & Expo (ICME 2025)</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>Email:</li>
+          <li><a href="mailto:darcyddx@gmail.com">darcyddx [at] gmail [dot] com</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+          <a href="https://scholar.google.com/citations?user=hw1udTkAAAAJ&hl=zh-CN" target="_blank" class="icon-button github">
+          <i class="ai ai-google-scholar-square icon-github"></i>
+            <span></span>
+          </a>
+
+          <a href="https://github.com/Darcyddx" target="_blank" class="icon-button github">
+            <i class="fa fa-github icon-github"></i>
+            <span></span>
+          </a>
+
+          <a href="https://orcid.org/0009-0005-5309-4340" target="_blank" class="icon-button linkedin">
+            <i class="ai ai-orcid icon-linkedin"></i>
+            <span></span>
+          </a>
+      </div>
+	<div class="footer-col footer-col-3">
+		<p class="text">The style is borrowed from this <a href='https://www.hexianghu.com/' target="_blank">website</a>.</p>
+	</div>
+  </div>
+  </div>
+
+</footer>
+    <div class="back-to-top">Top</div>
+
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.back-to-top').fadeIn(duration);
+        } else {
+            jQuery('.back-to-top').fadeOut(duration);
+
+        }
+    });
+    jQuery('.back-to-top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
+  </body>
+
+</html>
