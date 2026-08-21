@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 260" role="img" aria-labelledby="title desc">
+  <title id="title">TrapQA reasoning against priors</title>
+  <desc id="desc">A language model chooses between a salient prior and a prompt constraint.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f2ed"/>
+      <stop offset="1" stop-color="#f2e5df"/>
+    </linearGradient>
+    <marker id="arrow-red" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#9b3022"/>
+    </marker>
+    <marker id="arrow-blue" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#315a74"/>
+    </marker>
+  </defs>
+  <rect width="560" height="260" rx="16" fill="url(#bg)"/>
+  <text x="28" y="42" fill="#2c2522" font-family="Arial, sans-serif" font-size="24" font-weight="700">Testing Reasoning Against Priors</text>
+  <rect x="28" y="76" width="128" height="105" rx="12" fill="#fff" stroke="#6b5a52" stroke-width="2"/>
+  <text x="92" y="110" text-anchor="middle" fill="#2c2522" font-family="Arial, sans-serif" font-size="16" font-weight="700">Prompt</text>
+  <text x="92" y="138" text-anchor="middle" fill="#6b5a52" font-family="Arial, sans-serif" font-size="14">constraint</text>
+  <text x="92" y="160" text-anchor="middle" fill="#6b5a52" font-family="Arial, sans-serif" font-size="14">+ shortcut</text>
+  <rect x="218" y="76" width="124" height="105" rx="52" fill="#fff" stroke="#6b5a52" stroke-width="2"/>
+  <text x="280" y="119" text-anchor="middle" fill="#2c2522" font-family="Arial, sans-serif" font-size="16" font-weight="700">Language</text>
+  <text x="280" y="143" text-anchor="middle" fill="#2c2522" font-family="Arial, sans-serif" font-size="16" font-weight="700">Model</text>
+  <path d="M156 128 H210" fill="none" stroke="#6b5a52" stroke-width="3" marker-end="url(#arrow-red)"/>
+  <path d="M342 112 C388 78 417 78 458 90" fill="none" stroke="#9b3022" stroke-width="4" marker-end="url(#arrow-red)"/>
+  <path d="M342 146 C388 180 417 180 458 168" fill="none" stroke="#315a74" stroke-width="4" marker-end="url(#arrow-blue)"/>
+  <text x="465" y="76" fill="#9b3022" font-family="Arial, sans-serif" font-size="14" font-weight="700">Prior</text>
+  <text x="465" y="104" fill="#9b3022" font-family="Arial, sans-serif" font-size="13">hallucination</text>
+  <text x="465" y="158" fill="#315a74" font-family="Arial, sans-serif" font-size="14" font-weight="700">Constraint</text>
+  <text x="465" y="185" fill="#315a74" font-family="Arial, sans-serif" font-size="13">reasoning</text>
+  <text x="28" y="226" fill="#9b3022" font-family="Arial, sans-serif" font-size="20" font-weight="700">TrapQA</text>
+  <text x="108" y="226" fill="#6b5a52" font-family="Arial, sans-serif" font-size="14">Understanding why language models hallucinate</text>
+</svg>
