@@ -1630,6 +1630,22 @@ div.paginate-container li:nth-last-child(2) a:after {
     margin-right: auto
 }
 
+.pub-left > .venue-badge {
+    box-sizing: border-box;
+    width: 286px;
+    max-width: 100%;
+    margin: 0 auto 10px;
+    padding: 7px 12px;
+    color: #fff;
+    background: #0077B5;
+    border-radius: 9px;
+    box-shadow: 0 4px 9px rgba(0, 119, 181, 0.25);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center
+}
+
 /* .pub-left>.intro-img {
     width: 280px;
     border-style: solid;
@@ -1690,39 +1706,6 @@ div.paginate-container li:nth-last-child(2) a:after {
 
 .pub-right>.desc>p {
     margin: auto
-}
-
-.pub-right>.publish {
-    float: right
-}
-
-.pub-right>.publish>.publisher {
-    color: #002336;
-    font-size: 16px
-}
-
-.pub-right>.publish>.status {
-    color: #9b3022;
-    font-weight: 800;
-    font-size: 16px
-}
-
-@media screen and (max-width: 600px) {
-    .pub-right>.publish>.status {
-        display: none
-    }
-}
-
-.pub-right>.publish>.place {
-    color: #0077B5;
-    font-weight: 500;
-    font-size: 16px
-}
-
-@media screen and (max-width: 600px) {
-    .pub-right>.publish>.place {
-        display: none
-    }
 }
 
 .bio {
