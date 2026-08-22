@@ -1698,6 +1698,15 @@ div.paginate-container li:nth-last-child(2) a:after {
     font-weight: 400
 }
 
+.pub-right > .authors b {
+    font-weight: 700
+}
+
+.pub-right > .authors b > u {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px
+}
+
 .pub-right>.tags>.tag {
     color: #9b3022;
     font-weight: 500;
