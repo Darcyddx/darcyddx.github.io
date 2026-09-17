@@ -824,6 +824,14 @@ pre>code {
     font-weight: 200
 }
 
+#my-affiliation {
+    margin-top: 4px;
+    font-size: 14px;
+    line-height: 1.35;
+    color: #292929;
+    font-weight: 300
+}
+
 #my-email {
     font-size: 16px;
     color: #292929;
@@ -845,6 +853,10 @@ pre>code {
 @media screen and (max-width: 600px) {
     #my-title {
         display: none
+    }
+
+    #my-affiliation {
+        font-size: 13px
     }
 }
 
